@@ -17,9 +17,14 @@
 
 _This is a horror game where the player is stuck in a looping hallway. Right now I'm working on just having interactions with the monster._
 
+# Overview
+
+* _This game is a psychological horror game that takes inspiration from the cult classic demo P.T., originally released on PlayStation 4. This project seeks to capture the suspenseful and eerie atmosphere of P.T., while introducing its own unique gameplay elements and narrative._
+
 # Setup/Installation Requirements
 
 * _Clone this repository to your desktop_
+* _Download Unity Hub_
 * _Open the project in Unity_
 * _Open the scene "SampleScene"_
 * _Press the play button in the top middle of the screen_
