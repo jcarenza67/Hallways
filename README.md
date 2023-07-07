@@ -34,7 +34,7 @@ _This is a horror game where the player is stuck in a looping hallway. Right now
 
 ### Research & Planning Log
 #### Friday, 07/07/2023
-* 
+* 9:23: downloading textures from unity asset store
 
 # License
 
