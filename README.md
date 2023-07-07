@@ -11,6 +11,7 @@
 * _Blender_
 * _Cinemachine_
 * _FMOD_
+* _ShaderLab_
 * _Adobe Photoshop_
 
 # Description
