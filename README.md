@@ -40,6 +40,7 @@ _This is a horror game where the player is stuck in a looping hallway. Right now
 
 ### Research & Planning Log
 #### Friday, 07/07/2023
+
 * 9:23: downloading textures from unity asset store
 * 9:45: to 10:43: trying to commit game files to github, but its more complex than I thought. researching how to do it.
 * 11:30: lost half of my project prefabs, trying to restore them.
@@ -48,6 +49,8 @@ _This is a horror game where the player is stuck in a looping hallway. Right now
 * 2:30: Making sure im carefully adding files to github.
 * 3:52: Taking a bit to add all necessary files to github. Thankfully I have 2 days of environment I built last weekend.
 * 4:14: Adding blood to the bathroom.
+* 4:45: leaving computer on to finish huge push to repository.
+
 # License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
