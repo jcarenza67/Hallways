@@ -59,12 +59,12 @@ ExportedObj/
 *.tmp
 *.bak
 *.swp
-*.opendb
 *.VC.db
 *.opensdf
 *.cachefile
 *.VC.VC.opendb
 *.svd
+*.psd
 
 # ============ #
 # OS generated #
