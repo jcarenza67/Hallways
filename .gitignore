@@ -86,7 +86,10 @@ UIElementsSchema/
 /Assets/AtmosphericHouse/Textures/*
 /Assets/AtmosphericHouse/Textures/Clean/*
 /Textures/*
-Textures/
+/Textures/
+textures-zipped/
+Audio-zipped/
+
 
 
 
