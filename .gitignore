@@ -84,11 +84,14 @@ Thumbs.db
 
 UIElementsSchema/
 /Assets/AtmosphericHouse/Textures/*
-/Assets/AtmosphericHouse/Textures/Clean/*
+/Assets/AtmosphericHouse/Textures/
 /Textures/*
 /Textures/
+/Assets/Phoenix3D/Mega_Blood_ِDecals_Pack/Textures/*
+/Assets/Phoenix3D/Mega_Blood_ِDecals_Pack/Textures/
 textures-zipped/
 Audio-zipped/
+blood-texture-zip/
 
 
 
