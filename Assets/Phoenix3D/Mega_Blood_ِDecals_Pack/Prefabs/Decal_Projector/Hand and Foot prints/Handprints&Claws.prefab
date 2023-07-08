@@ -1,0 +1,2084 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &233701038300469448
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2282255006700890286}
+  - component: {fileID: 4657535381574905668}
+  m_Layer: 0
+  m_Name: Handprints&Claws_30
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2282255006700890286
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 233701038300469448}
+  m_LocalRotation: {x: 0.01914209, y: 0.71291804, z: -0.0053176894, w: 0.700966}
+  m_LocalPosition: {x: -0.26199213, y: 2.0028899, z: -1.1218976}
+  m_LocalScale: {x: 0.6322711, y: 0.6322711, z: 0.6322711}
+  m_Children: []
+  m_Father: {fileID: 6187649420236978419}
+  m_RootOrder: 29
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &4657535381574905668
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 233701038300469448}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 8f871edcf97b85c45b2ad6ad669be765, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0.83, y: 0.17}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.3, y: 0.3, z: 2}
+  m_FadeFactor: 1
+--- !u!1 &985337482373210063
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5615765232840512749}
+  - component: {fileID: 3228665475477741973}
+  m_Layer: 0
+  m_Name: Handprints&Claws_36
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5615765232840512749
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 985337482373210063}
+  m_LocalRotation: {x: 0.01914209, y: 0.71291804, z: -0.0053176894, w: 0.700966}
+  m_LocalPosition: {x: -0.26199213, y: 1.4316115, z: -1.1218976}
+  m_LocalScale: {x: 0.6322711, y: 0.6322711, z: 0.6322711}
+  m_Children: []
+  m_Father: {fileID: 6187649420236978419}
+  m_RootOrder: 35
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &3228665475477741973
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 985337482373210063}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 8f871edcf97b85c45b2ad6ad669be765, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0.8, y: 0}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.3, y: 0.3, z: 2}
+  m_FadeFactor: 1
+--- !u!1 &1224239942674912309
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6391633006758437877}
+  - component: {fileID: 902138501747010985}
+  m_Layer: 0
+  m_Name: Handprints&Claws_17
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6391633006758437877
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1224239942674912309}
+  m_LocalRotation: {x: 0.01914209, y: 0.71291804, z: -0.0053176894, w: 0.700966}
+  m_LocalPosition: {x: -0.2648126, y: 3.1001601, z: -0.6935907}
+  m_LocalScale: {x: 0.6322711, y: 0.6322711, z: 0.6322711}
+  m_Children: []
+  m_Father: {fileID: 6187649420236978419}
+  m_RootOrder: 16
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &902138501747010985
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1224239942674912309}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 8f871edcf97b85c45b2ad6ad669be765, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0.65, y: 0.5}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.3, y: 0.3, z: 2}
+  m_FadeFactor: 1
+--- !u!1 &1326591594130910051
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5861869636468416501}
+  - component: {fileID: 2587962199086662853}
+  m_Layer: 0
+  m_Name: Handprints&Claws_35
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5861869636468416501
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1326591594130910051}
+  m_LocalRotation: {x: 0.01914209, y: 0.71291804, z: -0.0053176894, w: 0.700966}
+  m_LocalPosition: {x: -0.2648126, y: 1.4316115, z: -0.6935907}
+  m_LocalScale: {x: 0.6322711, y: 0.6322711, z: 0.6322711}
+  m_Children: []
+  m_Father: {fileID: 6187649420236978419}
+  m_RootOrder: 34
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &2587962199086662853
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1326591594130910051}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 8f871edcf97b85c45b2ad6ad669be765, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0.65, y: 0}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.3, y: 0.3, z: 2}
+  m_FadeFactor: 1
+--- !u!1 &1335204600584000261
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1965582411868783647}
+  - component: {fileID: 3662558521929250358}
+  m_Layer: 0
+  m_Name: Handprints&Claws_21
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1965582411868783647
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1335204600584000261}
+  m_LocalRotation: {x: 0.01914209, y: 0.71291804, z: -0.0053176894, w: 0.700966}
+  m_LocalPosition: {x: -0.26414114, y: 2.5943432, z: 0.21075505}
+  m_LocalScale: {x: 0.6322711, y: 0.6322711, z: 0.6322711}
+  m_Children: []
+  m_Father: {fileID: 6187649420236978419}
+  m_RootOrder: 20
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &3662558521929250358
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1335204600584000261}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 8f871edcf97b85c45b2ad6ad669be765, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0.32, y: 0.35}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.3, y: 0.3, z: 2}
+  m_FadeFactor: 1
+--- !u!1 &1710067414384169241
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5015848846894736334}
+  - component: {fileID: 3660155638986292592}
+  m_Layer: 0
+  m_Name: Handprints&Claws_27
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5015848846894736334
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1710067414384169241}
+  m_LocalRotation: {x: 0.01914209, y: 0.71291804, z: -0.0053176894, w: 0.700966}
+  m_LocalPosition: {x: -0.26414114, y: 2.0028899, z: 0.21075505}
+  m_LocalScale: {x: 0.6322711, y: 0.6322711, z: 0.6322711}
+  m_Children: []
+  m_Father: {fileID: 6187649420236978419}
+  m_RootOrder: 26
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &3660155638986292592
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1710067414384169241}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 8f871edcf97b85c45b2ad6ad669be765, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0.33, y: 0.17}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.3, y: 0.3, z: 2}
+  m_FadeFactor: 1
+--- !u!1 &2076844034321295686
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7475959754751015326}
+  - component: {fileID: 3360824811349923543}
+  m_Layer: 0
+  m_Name: Handprints&Claws_16
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7475959754751015326
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2076844034321295686}
+  m_LocalRotation: {x: 0.01914209, y: 0.71291804, z: -0.0053176894, w: 0.700966}
+  m_LocalPosition: {x: -0.2642524, y: 3.1001601, z: -0.29672322}
+  m_LocalScale: {x: 0.6322711, y: 0.6322711, z: 0.6322711}
+  m_Children: []
+  m_Father: {fileID: 6187649420236978419}
+  m_RootOrder: 15
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &3360824811349923543
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2076844034321295686}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 8f871edcf97b85c45b2ad6ad669be765, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0.52, y: 0.5}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.3, y: 0.3, z: 2}
+  m_FadeFactor: 1
+--- !u!1 &2649133196679673499
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8184614658284142945}
+  - component: {fileID: 5396505260617164440}
+  m_Layer: 0
+  m_Name: Handprints&Claws_34
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8184614658284142945
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2649133196679673499}
+  m_LocalRotation: {x: 0.01914209, y: 0.71291804, z: -0.0053176894, w: 0.700966}
+  m_LocalPosition: {x: -0.2642524, y: 1.4316115, z: -0.29672322}
+  m_LocalScale: {x: 0.6322711, y: 0.6322711, z: 0.6322711}
+  m_Children: []
+  m_Father: {fileID: 6187649420236978419}
+  m_RootOrder: 33
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &5396505260617164440
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2649133196679673499}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 8f871edcf97b85c45b2ad6ad669be765, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0.49, y: 0}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.3, y: 0.3, z: 2}
+  m_FadeFactor: 1
+--- !u!1 &2901027445735522596
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5886029819337143237}
+  - component: {fileID: 6531389554348929760}
+  m_Layer: 0
+  m_Name: Handprints&Claws_10
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5886029819337143237
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2901027445735522596}
+  m_LocalRotation: {x: 0.01914209, y: 0.71291804, z: -0.0053176894, w: 0.700966}
+  m_LocalPosition: {x: -0.2642524, y: 3.574364, z: -0.29672322}
+  m_LocalScale: {x: 0.6322711, y: 0.6322711, z: 0.6322711}
+  m_Children: []
+  m_Father: {fileID: 6187649420236978419}
+  m_RootOrder: 9
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &6531389554348929760
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2901027445735522596}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 8f871edcf97b85c45b2ad6ad669be765, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0.52, y: 0.66}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.3, y: 0.3, z: 2}
+  m_FadeFactor: 1
+--- !u!1 &2911636850831277016
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 186387045770426155}
+  - component: {fileID: 4346767192759557906}
+  m_Layer: 0
+  m_Name: Handprints&Claws_19
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &186387045770426155
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2911636850831277016}
+  m_LocalRotation: {x: 0.01914209, y: 0.71291804, z: -0.0053176894, w: 0.700966}
+  m_LocalPosition: {x: -0.2603864, y: 2.5943432, z: 1.1573999}
+  m_LocalScale: {x: 0.6322711, y: 0.6322711, z: 0.6322711}
+  m_Children: []
+  m_Father: {fileID: 6187649420236978419}
+  m_RootOrder: 18
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &4346767192759557906
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2911636850831277016}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 8f871edcf97b85c45b2ad6ad669be765, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0, y: 0.35}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.3, y: 0.3, z: 2}
+  m_FadeFactor: 1
+--- !u!1 &2943879963027316172
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4738283314512446811}
+  - component: {fileID: 1193744892290677508}
+  m_Layer: 0
+  m_Name: Handprints&Claws_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4738283314512446811
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2943879963027316172}
+  m_LocalRotation: {x: 0.01914209, y: 0.71291804, z: -0.0053176894, w: 0.700966}
+  m_LocalPosition: {x: -0.2603864, y: 4.029599, z: 1.1573999}
+  m_LocalScale: {x: 0.6322711, y: 0.6322711, z: 0.6322711}
+  m_Children: []
+  m_Father: {fileID: 6187649420236978419}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &1193744892290677508
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2943879963027316172}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 8f871edcf97b85c45b2ad6ad669be765, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0, y: 0.83}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.3, y: 0.3, z: 2}
+  m_FadeFactor: 1
+--- !u!1 &3094424998172699824
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1956646585382723774}
+  - component: {fileID: 5096226738439033596}
+  m_Layer: 0
+  m_Name: Handprints&Claws_26
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1956646585382723774
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3094424998172699824}
+  m_LocalRotation: {x: 0.01914209, y: 0.71291804, z: -0.0053176894, w: 0.700966}
+  m_LocalPosition: {x: -0.26167497, y: 2.0028899, z: 0.67269623}
+  m_LocalScale: {x: 0.6322711, y: 0.6322711, z: 0.6322711}
+  m_Children: []
+  m_Father: {fileID: 6187649420236978419}
+  m_RootOrder: 25
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &5096226738439033596
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3094424998172699824}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 8f871edcf97b85c45b2ad6ad669be765, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0.16, y: 0.17}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.3, y: 0.3, z: 2}
+  m_FadeFactor: 1
+--- !u!1 &3481116322461305208
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7130625966060081507}
+  - component: {fileID: 2230041288553528595}
+  m_Layer: 0
+  m_Name: Handprints&Claws_7
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7130625966060081507
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3481116322461305208}
+  m_LocalRotation: {x: 0.01914209, y: 0.71291804, z: -0.0053176894, w: 0.700966}
+  m_LocalPosition: {x: -0.2603864, y: 3.574364, z: 1.1573999}
+  m_LocalScale: {x: 0.6322711, y: 0.6322711, z: 0.6322711}
+  m_Children: []
+  m_Father: {fileID: 6187649420236978419}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &2230041288553528595
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3481116322461305208}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 8f871edcf97b85c45b2ad6ad669be765, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0, y: 0.66}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.3, y: 0.3, z: 2}
+  m_FadeFactor: 1
+--- !u!1 &3659818052035492926
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6187649420236978419}
+  m_Layer: 0
+  m_Name: Handprints&Claws
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!4 &6187649420236978419
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3659818052035492926}
+  m_LocalRotation: {x: -0.17028904, y: -0.00000002235174, z: -0, w: 0.9853942}
+  m_LocalPosition: {x: -0.01, y: -1.106, z: -0.593}
+  m_LocalScale: {x: 0.63309866, y: 0.63309866, z: 0.63309866}
+  m_Children:
+  - {fileID: 4738283314512446811}
+  - {fileID: 9132410690777671659}
+  - {fileID: 1281854641024554681}
+  - {fileID: 1031919385868275763}
+  - {fileID: 8795274954083158269}
+  - {fileID: 8359488489814730752}
+  - {fileID: 7130625966060081507}
+  - {fileID: 181913360947243802}
+  - {fileID: 8334057416117549211}
+  - {fileID: 5886029819337143237}
+  - {fileID: 4661210489419195897}
+  - {fileID: 5404032513805702696}
+  - {fileID: 8641543454856668237}
+  - {fileID: 8011623478696317985}
+  - {fileID: 7009993605198119352}
+  - {fileID: 7475959754751015326}
+  - {fileID: 6391633006758437877}
+  - {fileID: 7789745712984439931}
+  - {fileID: 186387045770426155}
+  - {fileID: 749599601934859084}
+  - {fileID: 1965582411868783647}
+  - {fileID: 3897409640857533465}
+  - {fileID: 4878147021121171929}
+  - {fileID: 7139414457926884481}
+  - {fileID: 6117979383749655823}
+  - {fileID: 1956646585382723774}
+  - {fileID: 5015848846894736334}
+  - {fileID: 8481521877450606798}
+  - {fileID: 9082434491671210421}
+  - {fileID: 2282255006700890286}
+  - {fileID: 4077451675926602539}
+  - {fileID: 5549468513527258087}
+  - {fileID: 4036389839184342662}
+  - {fileID: 8184614658284142945}
+  - {fileID: 5861869636468416501}
+  - {fileID: 5615765232840512749}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -19.609, y: 0, z: 0}
+--- !u!1 &3890102142558637739
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8359488489814730752}
+  - component: {fileID: 7291111198598931929}
+  m_Layer: 0
+  m_Name: Handprints&Claws_6
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8359488489814730752
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3890102142558637739}
+  m_LocalRotation: {x: 0.01914209, y: 0.71291804, z: -0.0053176894, w: 0.700966}
+  m_LocalPosition: {x: -0.26199213, y: 4.029599, z: -1.1218976}
+  m_LocalScale: {x: 0.6322711, y: 0.6322711, z: 0.6322711}
+  m_Children: []
+  m_Father: {fileID: 6187649420236978419}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &7291111198598931929
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3890102142558637739}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 8f871edcf97b85c45b2ad6ad669be765, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0.8, y: 0.83}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.3, y: 0.3, z: 2}
+  m_FadeFactor: 1
+--- !u!1 &3926913608947861747
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3897409640857533465}
+  - component: {fileID: 925164967134098011}
+  m_Layer: 0
+  m_Name: Handprints&Claws_22
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3897409640857533465
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3926913608947861747}
+  m_LocalRotation: {x: 0.01914209, y: 0.71291804, z: -0.0053176894, w: 0.700966}
+  m_LocalPosition: {x: -0.2642524, y: 2.5943432, z: -0.29672322}
+  m_LocalScale: {x: 0.6322711, y: 0.6322711, z: 0.6322711}
+  m_Children: []
+  m_Father: {fileID: 6187649420236978419}
+  m_RootOrder: 21
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &925164967134098011
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3926913608947861747}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 8f871edcf97b85c45b2ad6ad669be765, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0.52, y: 0.35}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.3, y: 0.3, z: 2}
+  m_FadeFactor: 1
+--- !u!1 &4864319008921025491
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7789745712984439931}
+  - component: {fileID: 1009817210394824983}
+  m_Layer: 0
+  m_Name: Handprints&Claws_18
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7789745712984439931
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4864319008921025491}
+  m_LocalRotation: {x: 0.01914209, y: 0.71291804, z: -0.0053176894, w: 0.700966}
+  m_LocalPosition: {x: -0.26199213, y: 3.1001601, z: -1.1218976}
+  m_LocalScale: {x: 0.6322711, y: 0.6322711, z: 0.6322711}
+  m_Children: []
+  m_Father: {fileID: 6187649420236978419}
+  m_RootOrder: 17
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &1009817210394824983
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4864319008921025491}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 8f871edcf97b85c45b2ad6ad669be765, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0.8, y: 0.5}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.3, y: 0.3, z: 2}
+  m_FadeFactor: 1
+--- !u!1 &5030873052426880622
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4077451675926602539}
+  - component: {fileID: 7201436761442701490}
+  m_Layer: 0
+  m_Name: Handprints&Claws_31
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4077451675926602539
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5030873052426880622}
+  m_LocalRotation: {x: 0.01914209, y: 0.71291804, z: -0.0053176894, w: 0.700966}
+  m_LocalPosition: {x: -0.2603864, y: 1.4316115, z: 1.1573999}
+  m_LocalScale: {x: 0.6322711, y: 0.6322711, z: 0.6322711}
+  m_Children: []
+  m_Father: {fileID: 6187649420236978419}
+  m_RootOrder: 30
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &7201436761442701490
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5030873052426880622}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 8f871edcf97b85c45b2ad6ad669be765, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0, y: 0}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.3, y: 0.3, z: 2}
+  m_FadeFactor: 1
+--- !u!1 &5278914497657093835
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1031919385868275763}
+  - component: {fileID: 1574664887453599177}
+  m_Layer: 0
+  m_Name: Handprints&Claws_4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1031919385868275763
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5278914497657093835}
+  m_LocalRotation: {x: 0.01914209, y: 0.71291804, z: -0.0053176894, w: 0.700966}
+  m_LocalPosition: {x: -0.2642524, y: 4.029599, z: -0.29672322}
+  m_LocalScale: {x: 0.6322711, y: 0.6322711, z: 0.6322711}
+  m_Children: []
+  m_Father: {fileID: 6187649420236978419}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &1574664887453599177
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5278914497657093835}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 8f871edcf97b85c45b2ad6ad669be765, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0.52, y: 0.83}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.3, y: 0.3, z: 2}
+  m_FadeFactor: 1
+--- !u!1 &5349444772738165163
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8011623478696317985}
+  - component: {fileID: 7178069117282799549}
+  m_Layer: 0
+  m_Name: Handprints&Claws_14
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8011623478696317985
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5349444772738165163}
+  m_LocalRotation: {x: 0.01914209, y: 0.71291804, z: -0.0053176894, w: 0.700966}
+  m_LocalPosition: {x: -0.26167497, y: 3.1001601, z: 0.67269623}
+  m_LocalScale: {x: 0.6322711, y: 0.6322711, z: 0.6322711}
+  m_Children: []
+  m_Father: {fileID: 6187649420236978419}
+  m_RootOrder: 13
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &7178069117282799549
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5349444772738165163}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 8f871edcf97b85c45b2ad6ad669be765, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0.17, y: 0.5}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.3, y: 0.3, z: 2}
+  m_FadeFactor: 1
+--- !u!1 &5562454738124631191
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4878147021121171929}
+  - component: {fileID: 541785914294756568}
+  m_Layer: 0
+  m_Name: Handprints&Claws_23
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4878147021121171929
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5562454738124631191}
+  m_LocalRotation: {x: 0.01914209, y: 0.71291804, z: -0.0053176894, w: 0.700966}
+  m_LocalPosition: {x: -0.2648126, y: 2.5943432, z: -0.6935907}
+  m_LocalScale: {x: 0.6322711, y: 0.6322711, z: 0.6322711}
+  m_Children: []
+  m_Father: {fileID: 6187649420236978419}
+  m_RootOrder: 22
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &541785914294756568
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5562454738124631191}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 8f871edcf97b85c45b2ad6ad669be765, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0.65, y: 0.35}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.3, y: 0.3, z: 2}
+  m_FadeFactor: 1
+--- !u!1 &5667954415369298121
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4661210489419195897}
+  - component: {fileID: 9183184136472422814}
+  m_Layer: 0
+  m_Name: Handprints&Claws_11
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4661210489419195897
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5667954415369298121}
+  m_LocalRotation: {x: 0.01914209, y: 0.71291804, z: -0.0053176894, w: 0.700966}
+  m_LocalPosition: {x: -0.2648126, y: 3.574364, z: -0.6935907}
+  m_LocalScale: {x: 0.6322711, y: 0.6322711, z: 0.6322711}
+  m_Children: []
+  m_Father: {fileID: 6187649420236978419}
+  m_RootOrder: 10
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &9183184136472422814
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5667954415369298121}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 8f871edcf97b85c45b2ad6ad669be765, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0.65, y: 0.66}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.3, y: 0.3, z: 2}
+  m_FadeFactor: 1
+--- !u!1 &6009818295277240628
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7009993605198119352}
+  - component: {fileID: 8203917155188599105}
+  m_Layer: 0
+  m_Name: Handprints&Claws_15
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7009993605198119352
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6009818295277240628}
+  m_LocalRotation: {x: 0.01914209, y: 0.71291804, z: -0.0053176894, w: 0.700966}
+  m_LocalPosition: {x: -0.26414114, y: 3.1001601, z: 0.21075505}
+  m_LocalScale: {x: 0.6322711, y: 0.6322711, z: 0.6322711}
+  m_Children: []
+  m_Father: {fileID: 6187649420236978419}
+  m_RootOrder: 14
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &8203917155188599105
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6009818295277240628}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 8f871edcf97b85c45b2ad6ad669be765, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0.32, y: 0.5}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.3, y: 0.3, z: 2}
+  m_FadeFactor: 1
+--- !u!1 &6221399958394297789
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8795274954083158269}
+  - component: {fileID: 5503508194226211471}
+  m_Layer: 0
+  m_Name: Handprints&Claws_5
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8795274954083158269
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6221399958394297789}
+  m_LocalRotation: {x: 0.01914209, y: 0.71291804, z: -0.0053176894, w: 0.700966}
+  m_LocalPosition: {x: -0.2648126, y: 4.029599, z: -0.6935907}
+  m_LocalScale: {x: 0.6322711, y: 0.6322711, z: 0.6322711}
+  m_Children: []
+  m_Father: {fileID: 6187649420236978419}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &5503508194226211471
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6221399958394297789}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 8f871edcf97b85c45b2ad6ad669be765, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0.65, y: 0.83}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.3, y: 0.3, z: 2}
+  m_FadeFactor: 1
+--- !u!1 &6274806523255809718
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8481521877450606798}
+  - component: {fileID: 1691284025204650835}
+  m_Layer: 0
+  m_Name: Handprints&Claws_28
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8481521877450606798
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6274806523255809718}
+  m_LocalRotation: {x: 0.01914209, y: 0.71291804, z: -0.0053176894, w: 0.700966}
+  m_LocalPosition: {x: -0.2642524, y: 2.0028899, z: -0.29672322}
+  m_LocalScale: {x: 0.6322711, y: 0.6322711, z: 0.6322711}
+  m_Children: []
+  m_Father: {fileID: 6187649420236978419}
+  m_RootOrder: 27
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &1691284025204650835
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6274806523255809718}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 8f871edcf97b85c45b2ad6ad669be765, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0.49, y: 0.17}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.3, y: 0.3, z: 2}
+  m_FadeFactor: 1
+--- !u!1 &6490745844010652002
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1281854641024554681}
+  - component: {fileID: 7472655204358892484}
+  m_Layer: 0
+  m_Name: Handprints&Claws_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1281854641024554681
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6490745844010652002}
+  m_LocalRotation: {x: 0.01914209, y: 0.71291804, z: -0.0053176894, w: 0.700966}
+  m_LocalPosition: {x: -0.26414114, y: 4.029599, z: 0.21075505}
+  m_LocalScale: {x: 0.6322711, y: 0.6322711, z: 0.6322711}
+  m_Children: []
+  m_Father: {fileID: 6187649420236978419}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &7472655204358892484
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6490745844010652002}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 8f871edcf97b85c45b2ad6ad669be765, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0.32, y: 0.83}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.3, y: 0.3, z: 2}
+  m_FadeFactor: 1
+--- !u!1 &6666686535240941039
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 181913360947243802}
+  - component: {fileID: 1294272616209132738}
+  m_Layer: 0
+  m_Name: Handprints&Claws_8
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &181913360947243802
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6666686535240941039}
+  m_LocalRotation: {x: 0.01914209, y: 0.71291804, z: -0.0053176894, w: 0.700966}
+  m_LocalPosition: {x: -0.26167497, y: 3.574364, z: 0.67269623}
+  m_LocalScale: {x: 0.6322711, y: 0.6322711, z: 0.6322711}
+  m_Children: []
+  m_Father: {fileID: 6187649420236978419}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &1294272616209132738
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6666686535240941039}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 8f871edcf97b85c45b2ad6ad669be765, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0.17, y: 0.66}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.3, y: 0.3, z: 2}
+  m_FadeFactor: 1
+--- !u!1 &7086801280131549122
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8641543454856668237}
+  - component: {fileID: 7504400612540194313}
+  m_Layer: 0
+  m_Name: Handprints&Claws_13
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8641543454856668237
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7086801280131549122}
+  m_LocalRotation: {x: 0.01914209, y: 0.71291804, z: -0.0053176894, w: 0.700966}
+  m_LocalPosition: {x: -0.2603864, y: 3.1001601, z: 1.1573999}
+  m_LocalScale: {x: 0.6322711, y: 0.6322711, z: 0.6322711}
+  m_Children: []
+  m_Father: {fileID: 6187649420236978419}
+  m_RootOrder: 12
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &7504400612540194313
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7086801280131549122}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 8f871edcf97b85c45b2ad6ad669be765, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0, y: 0.5}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.3, y: 0.3, z: 2}
+  m_FadeFactor: 1
+--- !u!1 &7360741849865079812
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9082434491671210421}
+  - component: {fileID: 8176475691848642581}
+  m_Layer: 0
+  m_Name: Handprints&Claws_29
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9082434491671210421
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7360741849865079812}
+  m_LocalRotation: {x: 0.01914209, y: 0.71291804, z: -0.0053176894, w: 0.700966}
+  m_LocalPosition: {x: -0.2648126, y: 2.0028899, z: -0.6935907}
+  m_LocalScale: {x: 0.6322711, y: 0.6322711, z: 0.6322711}
+  m_Children: []
+  m_Father: {fileID: 6187649420236978419}
+  m_RootOrder: 28
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &8176475691848642581
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7360741849865079812}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 8f871edcf97b85c45b2ad6ad669be765, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0.66, y: 0.17}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.3, y: 0.3, z: 2}
+  m_FadeFactor: 1
+--- !u!1 &7807993806342234224
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4036389839184342662}
+  - component: {fileID: 8933051917484414284}
+  m_Layer: 0
+  m_Name: Handprints&Claws_33
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4036389839184342662
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7807993806342234224}
+  m_LocalRotation: {x: 0.01914209, y: 0.71291804, z: -0.0053176894, w: 0.700966}
+  m_LocalPosition: {x: -0.26414114, y: 1.4316115, z: 0.21075505}
+  m_LocalScale: {x: 0.6322711, y: 0.6322711, z: 0.6322711}
+  m_Children: []
+  m_Father: {fileID: 6187649420236978419}
+  m_RootOrder: 32
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &8933051917484414284
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7807993806342234224}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 8f871edcf97b85c45b2ad6ad669be765, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0.32, y: 0}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.3, y: 0.3, z: 2}
+  m_FadeFactor: 1
+--- !u!1 &7926470943456717251
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5549468513527258087}
+  - component: {fileID: 2033089870849241411}
+  m_Layer: 0
+  m_Name: Handprints&Claws_32
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5549468513527258087
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7926470943456717251}
+  m_LocalRotation: {x: 0.01914209, y: 0.71291804, z: -0.0053176894, w: 0.700966}
+  m_LocalPosition: {x: -0.26167497, y: 1.4316115, z: 0.67269623}
+  m_LocalScale: {x: 0.6322711, y: 0.6322711, z: 0.6322711}
+  m_Children: []
+  m_Father: {fileID: 6187649420236978419}
+  m_RootOrder: 31
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &2033089870849241411
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7926470943456717251}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 8f871edcf97b85c45b2ad6ad669be765, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0.17, y: 0}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.3, y: 0.3, z: 2}
+  m_FadeFactor: 1
+--- !u!1 &7998034443311791978
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9132410690777671659}
+  - component: {fileID: 2729868434770628697}
+  m_Layer: 0
+  m_Name: Handprints&Claws_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9132410690777671659
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7998034443311791978}
+  m_LocalRotation: {x: 0.01914209, y: 0.71291804, z: -0.0053176894, w: 0.700966}
+  m_LocalPosition: {x: -0.26167497, y: 4.029599, z: 0.67269623}
+  m_LocalScale: {x: 0.6322711, y: 0.6322711, z: 0.6322711}
+  m_Children: []
+  m_Father: {fileID: 6187649420236978419}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &2729868434770628697
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7998034443311791978}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 8f871edcf97b85c45b2ad6ad669be765, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0.17, y: 0.83}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.3, y: 0.3, z: 2}
+  m_FadeFactor: 1
+--- !u!1 &8268015994945478527
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6117979383749655823}
+  - component: {fileID: 6524081226739343238}
+  m_Layer: 0
+  m_Name: Handprints&Claws_25
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6117979383749655823
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8268015994945478527}
+  m_LocalRotation: {x: 0.01914209, y: 0.71291804, z: -0.0053176894, w: 0.700966}
+  m_LocalPosition: {x: -0.2603864, y: 2.0028899, z: 1.1573999}
+  m_LocalScale: {x: 0.6322711, y: 0.6322711, z: 0.6322711}
+  m_Children: []
+  m_Father: {fileID: 6187649420236978419}
+  m_RootOrder: 24
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &6524081226739343238
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8268015994945478527}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 8f871edcf97b85c45b2ad6ad669be765, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0, y: 0.17}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.3, y: 0.3, z: 2}
+  m_FadeFactor: 1
+--- !u!1 &8357498818556209978
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7139414457926884481}
+  - component: {fileID: 2356637288327547383}
+  m_Layer: 0
+  m_Name: Handprints&Claws_24
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7139414457926884481
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8357498818556209978}
+  m_LocalRotation: {x: 0.01914209, y: 0.71291804, z: -0.0053176894, w: 0.700966}
+  m_LocalPosition: {x: -0.26199213, y: 2.5943432, z: -1.1218976}
+  m_LocalScale: {x: 0.6322711, y: 0.6322711, z: 0.6322711}
+  m_Children: []
+  m_Father: {fileID: 6187649420236978419}
+  m_RootOrder: 23
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &2356637288327547383
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8357498818556209978}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 8f871edcf97b85c45b2ad6ad669be765, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0.8, y: 0.35}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.3, y: 0.3, z: 2}
+  m_FadeFactor: 1
+--- !u!1 &8570874062882203526
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5404032513805702696}
+  - component: {fileID: 8962567440119441476}
+  m_Layer: 0
+  m_Name: Handprints&Claws_12
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5404032513805702696
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8570874062882203526}
+  m_LocalRotation: {x: 0.01914209, y: 0.71291804, z: -0.0053176894, w: 0.700966}
+  m_LocalPosition: {x: -0.26199213, y: 3.574364, z: -1.1218976}
+  m_LocalScale: {x: 0.6322711, y: 0.6322711, z: 0.6322711}
+  m_Children: []
+  m_Father: {fileID: 6187649420236978419}
+  m_RootOrder: 11
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &8962567440119441476
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8570874062882203526}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 8f871edcf97b85c45b2ad6ad669be765, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0.8, y: 0.66}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.3, y: 0.3, z: 2}
+  m_FadeFactor: 1
+--- !u!1 &8887364731519535081
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8334057416117549211}
+  - component: {fileID: 4099237485009503228}
+  m_Layer: 0
+  m_Name: Handprints&Claws_9
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8334057416117549211
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8887364731519535081}
+  m_LocalRotation: {x: 0.01914209, y: 0.71291804, z: -0.0053176894, w: 0.700966}
+  m_LocalPosition: {x: -0.26414114, y: 3.574364, z: 0.21075505}
+  m_LocalScale: {x: 0.6322711, y: 0.6322711, z: 0.6322711}
+  m_Children: []
+  m_Father: {fileID: 6187649420236978419}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &4099237485009503228
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8887364731519535081}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 8f871edcf97b85c45b2ad6ad669be765, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0.32, y: 0.66}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.3, y: 0.3, z: 2}
+  m_FadeFactor: 1
+--- !u!1 &9085069673096207997
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 749599601934859084}
+  - component: {fileID: 1649369877182736573}
+  m_Layer: 0
+  m_Name: Handprints&Claws_20
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &749599601934859084
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9085069673096207997}
+  m_LocalRotation: {x: 0.01914209, y: 0.71291804, z: -0.0053176894, w: 0.700966}
+  m_LocalPosition: {x: -0.26167497, y: 2.5943432, z: 0.67269623}
+  m_LocalScale: {x: 0.6322711, y: 0.6322711, z: 0.6322711}
+  m_Children: []
+  m_Father: {fileID: 6187649420236978419}
+  m_RootOrder: 19
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &1649369877182736573
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9085069673096207997}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 8f871edcf97b85c45b2ad6ad669be765, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0.17, y: 0.35}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.3, y: 0.3, z: 2}
+  m_FadeFactor: 1

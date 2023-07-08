@@ -1,0 +1,1286 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &65156322289280773
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5120870716569683535}
+  - component: {fileID: 4202105819595238650}
+  m_Layer: 0
+  m_Name: Phoenician_17
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5120870716569683535
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 65156322289280773}
+  m_LocalRotation: {x: 0.00531769, y: -0.70096594, z: 0.019142088, w: 0.71291804}
+  m_LocalPosition: {x: 0.41904593, y: 4.726, z: 1.2653809}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4128725919328438399}
+  m_RootOrder: 16
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &4202105819595238650
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 65156322289280773}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: dde6bca4a2c7160429393286fa0abba3, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0.65, y: 0.5}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.2, y: 0.2, z: 2}
+  m_FadeFactor: 1
+--- !u!1 &478250317216094748
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4128725919328438399}
+  m_Layer: 0
+  m_Name: Phoenician_Alphabet
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!4 &4128725919328438399
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 478250317216094748}
+  m_LocalRotation: {x: 0.70710707, y: 0.70710653, z: -0.00000025288116, w: -0.00000025288102}
+  m_LocalPosition: {x: 0.328, y: 1.04, z: 0.237}
+  m_LocalScale: {x: 0.25385398, y: 0.25385398, z: 0.25385398}
+  m_Children:
+  - {fileID: 9145312109006420947}
+  - {fileID: 2757045599617318012}
+  - {fileID: 3785425722275491605}
+  - {fileID: 1674976566268931911}
+  - {fileID: 7140683109878906410}
+  - {fileID: 8149391730236213370}
+  - {fileID: 6549088012845238837}
+  - {fileID: 1119536286326624189}
+  - {fileID: 4114534810264107921}
+  - {fileID: 8718867330453002075}
+  - {fileID: 3604995216035360063}
+  - {fileID: 466470677722252550}
+  - {fileID: 4994227182231065765}
+  - {fileID: 3404792607167329462}
+  - {fileID: 4276036007569738707}
+  - {fileID: 5548899589070914494}
+  - {fileID: 5120870716569683535}
+  - {fileID: 7033163449376474257}
+  - {fileID: 9121798950050261908}
+  - {fileID: 8936550547437716722}
+  - {fileID: 7528799779602621078}
+  - {fileID: 3339578042793403453}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 180, z: 90}
+--- !u!1 &1010877383856652527
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2757045599617318012}
+  - component: {fileID: 4490393493249899978}
+  m_Layer: 0
+  m_Name: Phoenician_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2757045599617318012
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1010877383856652527}
+  m_LocalRotation: {x: 0.00531769, y: -0.70096594, z: 0.019142088, w: 0.71291804}
+  m_LocalPosition: {x: 0.41408253, y: 6.195999, z: -0.89553833}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4128725919328438399}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &4490393493249899978
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1010877383856652527}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: dde6bca4a2c7160429393286fa0abba3, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0.17, y: 0.83}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.2, y: 0.2, z: 2}
+  m_FadeFactor: 1
+--- !u!1 &1943193595336338347
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4276036007569738707}
+  - component: {fileID: 5425403304399803966}
+  m_Layer: 0
+  m_Name: Phoenician_15
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4276036007569738707
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1943193595336338347}
+  m_LocalRotation: {x: 0.00531769, y: -0.70096594, z: 0.019142088, w: 0.71291804}
+  m_LocalPosition: {x: 0.4179821, y: 4.726, z: -0.16493082}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4128725919328438399}
+  m_RootOrder: 14
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &5425403304399803966
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1943193595336338347}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: dde6bca4a2c7160429393286fa0abba3, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0.32, y: 0.5}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.2, y: 0.2, z: 2}
+  m_FadeFactor: 1
+--- !u!1 &3484301520409544108
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8718867330453002075}
+  - component: {fileID: 2205036907072424760}
+  m_Layer: 0
+  m_Name: Phoenician_10
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8718867330453002075
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3484301520409544108}
+  m_LocalRotation: {x: 0.00531769, y: -0.70096594, z: 0.019142088, w: 0.71291804}
+  m_LocalPosition: {x: 0.41815853, y: 5.476, z: 0.6376896}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4128725919328438399}
+  m_RootOrder: 9
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &2205036907072424760
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3484301520409544108}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: dde6bca4a2c7160429393286fa0abba3, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0.52, y: 0.66}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.2, y: 0.2, z: 2}
+  m_FadeFactor: 1
+--- !u!1 &3564925123734849870
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6549088012845238837}
+  - component: {fileID: 1778301226236395369}
+  m_Layer: 0
+  m_Name: Phoenician_7
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6549088012845238837
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3564925123734849870}
+  m_LocalRotation: {x: 0.00531769, y: -0.70096594, z: 0.019142088, w: 0.71291804}
+  m_LocalPosition: {x: 0.41204453, y: 5.476, z: -1.6621499}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4128725919328438399}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &1778301226236395369
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3564925123734849870}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: dde6bca4a2c7160429393286fa0abba3, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0, y: 0.66}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.2, y: 0.2, z: 2}
+  m_FadeFactor: 1
+--- !u!1 &4287769387625316896
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4114534810264107921}
+  - component: {fileID: 561304829669443487}
+  m_Layer: 0
+  m_Name: Phoenician_9
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4114534810264107921
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4287769387625316896}
+  m_LocalRotation: {x: 0.00531769, y: -0.70096594, z: 0.019142088, w: 0.71291804}
+  m_LocalPosition: {x: 0.4179821, y: 5.476, z: -0.16493082}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4128725919328438399}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &561304829669443487
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4287769387625316896}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: dde6bca4a2c7160429393286fa0abba3, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0.32, y: 0.66}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.2, y: 0.2, z: 2}
+  m_FadeFactor: 1
+--- !u!1 &4929689988149979827
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1674976566268931911}
+  - component: {fileID: 992155308896472006}
+  m_Layer: 0
+  m_Name: Phoenician_4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1674976566268931911
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4929689988149979827}
+  m_LocalRotation: {x: 0.00531769, y: -0.70096594, z: 0.019142088, w: 0.71291804}
+  m_LocalPosition: {x: 0.41815853, y: 6.195999, z: 0.6376896}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4128725919328438399}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &992155308896472006
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4929689988149979827}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: dde6bca4a2c7160429393286fa0abba3, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0.52, y: 0.83}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.2, y: 0.2, z: 2}
+  m_FadeFactor: 1
+--- !u!1 &5293299282050605922
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 466470677722252550}
+  - component: {fileID: 5100338103640690227}
+  m_Layer: 0
+  m_Name: Phoenician_12
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &466470677722252550
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5293299282050605922}
+  m_LocalRotation: {x: 0.00531769, y: -0.70096594, z: 0.019142088, w: 0.71291804}
+  m_LocalPosition: {x: 0.41458368, y: 5.476, z: 1.9427896}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4128725919328438399}
+  m_RootOrder: 11
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &5100338103640690227
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5293299282050605922}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: dde6bca4a2c7160429393286fa0abba3, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0.8, y: 0.66}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.2, y: 0.2, z: 2}
+  m_FadeFactor: 1
+--- !u!1 &5336989397158406320
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7528799779602621078}
+  - component: {fileID: 7836493569767020257}
+  m_Layer: 0
+  m_Name: Phoenician_21
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7528799779602621078
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5336989397158406320}
+  m_LocalRotation: {x: 0.00531769, y: -0.70096594, z: 0.019142088, w: 0.71291804}
+  m_LocalPosition: {x: 0.4179821, y: 3.9259999, z: -0.16493082}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4128725919328438399}
+  m_RootOrder: 20
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &7836493569767020257
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5336989397158406320}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: dde6bca4a2c7160429393286fa0abba3, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0.32, y: 0.35}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.2, y: 0.2, z: 2}
+  m_FadeFactor: 1
+--- !u!1 &5383736485848698602
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4994227182231065765}
+  - component: {fileID: 1787778703669551023}
+  m_Layer: 0
+  m_Name: Phoenician_13
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4994227182231065765
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5383736485848698602}
+  m_LocalRotation: {x: 0.00531769, y: -0.70096594, z: 0.019142088, w: 0.71291804}
+  m_LocalPosition: {x: 0.41204453, y: 4.726, z: -1.6621499}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4128725919328438399}
+  m_RootOrder: 12
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &1787778703669551023
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5383736485848698602}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: dde6bca4a2c7160429393286fa0abba3, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0, y: 0.5}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.2, y: 0.2, z: 2}
+  m_FadeFactor: 1
+--- !u!1 &5630753225642115245
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7140683109878906410}
+  - component: {fileID: 8367288510220021591}
+  m_Layer: 0
+  m_Name: Phoenician_5
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7140683109878906410
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5630753225642115245}
+  m_LocalRotation: {x: 0.00531769, y: -0.70096594, z: 0.019142088, w: 0.71291804}
+  m_LocalPosition: {x: 0.41904593, y: 6.195999, z: 1.2653809}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4128725919328438399}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &8367288510220021591
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5630753225642115245}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: dde6bca4a2c7160429393286fa0abba3, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0.65, y: 0.83}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.2, y: 0.2, z: 2}
+  m_FadeFactor: 1
+--- !u!1 &6633140297350429899
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9145312109006420947}
+  - component: {fileID: 8139345993744330303}
+  m_Layer: 0
+  m_Name: Phoenician_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9145312109006420947
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6633140297350429899}
+  m_LocalRotation: {x: 0.00531769, y: -0.70096594, z: 0.019142088, w: 0.71291804}
+  m_LocalPosition: {x: 0.41204453, y: 6.195999, z: -1.6621499}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4128725919328438399}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &8139345993744330303
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6633140297350429899}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: dde6bca4a2c7160429393286fa0abba3, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0, y: 0.83}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.2, y: 0.2, z: 2}
+  m_FadeFactor: 1
+--- !u!1 &6739986854036298784
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8149391730236213370}
+  - component: {fileID: 7229328253783587016}
+  m_Layer: 0
+  m_Name: Phoenician_6
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8149391730236213370
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6739986854036298784}
+  m_LocalRotation: {x: 0.00531769, y: -0.70096594, z: 0.019142088, w: 0.71291804}
+  m_LocalPosition: {x: 0.41458368, y: 6.195999, z: 1.9427896}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4128725919328438399}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &7229328253783587016
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6739986854036298784}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: dde6bca4a2c7160429393286fa0abba3, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0.8, y: 0.83}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.2, y: 0.2, z: 2}
+  m_FadeFactor: 1
+--- !u!1 &6866548291478566903
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3604995216035360063}
+  - component: {fileID: 904603799033497781}
+  m_Layer: 0
+  m_Name: Phoenician_11
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3604995216035360063
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6866548291478566903}
+  m_LocalRotation: {x: 0.00531769, y: -0.70096594, z: 0.019142088, w: 0.71291804}
+  m_LocalPosition: {x: 0.41904593, y: 5.476, z: 1.2653809}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4128725919328438399}
+  m_RootOrder: 10
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &904603799033497781
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6866548291478566903}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: dde6bca4a2c7160429393286fa0abba3, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0.65, y: 0.66}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.2, y: 0.2, z: 2}
+  m_FadeFactor: 1
+--- !u!1 &6886384117283162491
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1119536286326624189}
+  - component: {fileID: 8512504509269702609}
+  m_Layer: 0
+  m_Name: Phoenician_8
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1119536286326624189
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6886384117283162491}
+  m_LocalRotation: {x: 0.00531769, y: -0.70096594, z: 0.019142088, w: 0.71291804}
+  m_LocalPosition: {x: 0.41408253, y: 5.476, z: -0.89553833}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4128725919328438399}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &8512504509269702609
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6886384117283162491}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: dde6bca4a2c7160429393286fa0abba3, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0.17, y: 0.66}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.2, y: 0.2, z: 2}
+  m_FadeFactor: 1
+--- !u!1 &7172562997120404158
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3339578042793403453}
+  - component: {fileID: 1142896097513743949}
+  m_Layer: 0
+  m_Name: Phoenician_22
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3339578042793403453
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7172562997120404158}
+  m_LocalRotation: {x: 0.00531769, y: -0.70096594, z: 0.019142088, w: 0.71291804}
+  m_LocalPosition: {x: 0.41815853, y: 3.9259999, z: 0.6376896}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4128725919328438399}
+  m_RootOrder: 21
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &1142896097513743949
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7172562997120404158}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: dde6bca4a2c7160429393286fa0abba3, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0.52, y: 0.35}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.2, y: 0.2, z: 2}
+  m_FadeFactor: 1
+--- !u!1 &7900786223817469104
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7033163449376474257}
+  - component: {fileID: 1396241077591923244}
+  m_Layer: 0
+  m_Name: Phoenician_18
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7033163449376474257
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7900786223817469104}
+  m_LocalRotation: {x: 0.00531769, y: -0.70096594, z: 0.019142088, w: 0.71291804}
+  m_LocalPosition: {x: 0.41458368, y: 4.726, z: 1.9427896}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4128725919328438399}
+  m_RootOrder: 17
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &1396241077591923244
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7900786223817469104}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: dde6bca4a2c7160429393286fa0abba3, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0.8, y: 0.5}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.2, y: 0.2, z: 2}
+  m_FadeFactor: 1
+--- !u!1 &8408264374385793897
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3404792607167329462}
+  - component: {fileID: 5327525012383218818}
+  m_Layer: 0
+  m_Name: Phoenician_14
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3404792607167329462
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8408264374385793897}
+  m_LocalRotation: {x: 0.00531769, y: -0.70096594, z: 0.019142088, w: 0.71291804}
+  m_LocalPosition: {x: 0.41408253, y: 4.726, z: -0.89553833}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4128725919328438399}
+  m_RootOrder: 13
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &5327525012383218818
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8408264374385793897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: dde6bca4a2c7160429393286fa0abba3, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0.17, y: 0.5}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.2, y: 0.2, z: 2}
+  m_FadeFactor: 1
+--- !u!1 &8569012149809792507
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5548899589070914494}
+  - component: {fileID: 5467090722149679638}
+  m_Layer: 0
+  m_Name: Phoenician_16
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5548899589070914494
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8569012149809792507}
+  m_LocalRotation: {x: 0.00531769, y: -0.70096594, z: 0.019142088, w: 0.71291804}
+  m_LocalPosition: {x: 0.41815853, y: 4.726, z: 0.6376896}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4128725919328438399}
+  m_RootOrder: 15
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &5467090722149679638
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8569012149809792507}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: dde6bca4a2c7160429393286fa0abba3, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0.52, y: 0.5}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.2, y: 0.2, z: 2}
+  m_FadeFactor: 1
+--- !u!1 &8890970829794827345
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3785425722275491605}
+  - component: {fileID: 598254486696533317}
+  m_Layer: 0
+  m_Name: Phoenician_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3785425722275491605
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8890970829794827345}
+  m_LocalRotation: {x: 0.00531769, y: -0.70096594, z: 0.019142088, w: 0.71291804}
+  m_LocalPosition: {x: 0.4179821, y: 6.195999, z: -0.16493082}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4128725919328438399}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &598254486696533317
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8890970829794827345}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: dde6bca4a2c7160429393286fa0abba3, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0.32, y: 0.83}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.2, y: 0.2, z: 2}
+  m_FadeFactor: 1
+--- !u!1 &9040657451967938684
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8936550547437716722}
+  - component: {fileID: 5337949054360536892}
+  m_Layer: 0
+  m_Name: Phoenician_20
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8936550547437716722
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9040657451967938684}
+  m_LocalRotation: {x: 0.00531769, y: -0.70096594, z: 0.019142088, w: 0.71291804}
+  m_LocalPosition: {x: 0.41408253, y: 3.9259999, z: -0.89553833}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4128725919328438399}
+  m_RootOrder: 19
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &5337949054360536892
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9040657451967938684}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: dde6bca4a2c7160429393286fa0abba3, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0.17, y: 0.35}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.2, y: 0.2, z: 2}
+  m_FadeFactor: 1
+--- !u!1 &9044967951314796864
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9121798950050261908}
+  - component: {fileID: 2197548774928737081}
+  m_Layer: 0
+  m_Name: Phoenician_19
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9121798950050261908
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9044967951314796864}
+  m_LocalRotation: {x: 0.00531769, y: -0.70096594, z: 0.019142088, w: 0.71291804}
+  m_LocalPosition: {x: 0.41204453, y: 3.9259999, z: -1.6621499}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4128725919328438399}
+  m_RootOrder: 18
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &2197548774928737081
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9044967951314796864}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: dde6bca4a2c7160429393286fa0abba3, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 1
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.17, y: 0.17}
+  m_UVBias: {x: 0, y: 0.35}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1}
+  m_Size: {x: 0.2, y: 0.2, z: 2}
+  m_FadeFactor: 1

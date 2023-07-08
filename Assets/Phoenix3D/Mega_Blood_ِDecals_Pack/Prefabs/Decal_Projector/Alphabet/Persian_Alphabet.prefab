@@ -1,0 +1,3680 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &41965193176890379
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7595335497310922218}
+  - component: {fileID: 3685136879761527676}
+  m_Layer: 0
+  m_Name: Persian_39
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7595335497310922218
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 41965193176890379}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.7646524, y: 4.164492, z: 3.13575}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 38
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &3685136879761527676
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 41965193176890379}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.74, y: 0.37}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &215805745668430299
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7874950631685075034}
+  - component: {fileID: 2795353954606645855}
+  m_Layer: 0
+  m_Name: Persian_47
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7874950631685075034
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 215805745668430299}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.7646524, y: 3.1077936, z: 3.13575}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 46
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &2795353954606645855
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 215805745668430299}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.74, y: 0.24}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &237187101862400863
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 397797082100943593}
+  - component: {fileID: 9011621537388824607}
+  m_Layer: 0
+  m_Name: Persian_40
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &397797082100943593
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 237187101862400863}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.77825737, y: 4.114661, z: 3.9749272}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 39
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &9011621537388824607
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 237187101862400863}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.87, y: 0.37}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &252001035852742218
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5438925222155906151}
+  - component: {fileID: 4272022951921026352}
+  m_Layer: 0
+  m_Name: Persian_51
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5438925222155906151
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 252001035852742218}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.7069348, y: 1.948245, z: -0.16126122}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 50
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &4272022951921026352
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 252001035852742218}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.24, y: 0.12}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &363355231632637220
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7316108413568961448}
+  - component: {fileID: 3131082033453959634}
+  m_Layer: 0
+  m_Name: Persian_60
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7316108413568961448
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 363355231632637220}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.7282941, y: 0.76853067, z: 0.71827036}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 59
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &3131082033453959634
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 363355231632637220}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.37, y: 0}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &430920869222007859
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3012373413263290788}
+  - component: {fileID: 7983427618735841961}
+  m_Layer: 0
+  m_Name: Persian_52
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3012373413263290788
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 430920869222007859}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.7282941, y: 1.9684112, z: 0.71827036}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 51
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &7983427618735841961
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 430920869222007859}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.37, y: 0.12}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &435976572479965216
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8802399103016864380}
+  - component: {fileID: 4311986233734107504}
+  m_Layer: 0
+  m_Name: Persian_64
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8802399103016864380
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 435976572479965216}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.77825737, y: 0.7483646, z: 3.9749272}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 63
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &4311986233734107504
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 435976572479965216}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.87, y: 0}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &500858740348659209
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4250945963113850390}
+  - component: {fileID: 2838420643175592834}
+  m_Layer: 0
+  m_Name: Persian_63
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4250945963113850390
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 500858740348659209}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.7646524, y: 0.79877967, z: 3.13575}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 62
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &2838420643175592834
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 500858740348659209}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.74, y: 0}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &713749179499936433
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6550950476295909976}
+  - component: {fileID: 4927021718791598697}
+  m_Layer: 0
+  m_Name: Persian_46
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6550950476295909976
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 713749179499936433}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.75386083, y: 3.1077936, z: 2.4264834}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 45
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &4927021718791598697
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 713749179499936433}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.62, y: 0.25}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &847507313275351730
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8475919373719927740}
+  - component: {fileID: 5451769540297518950}
+  m_Layer: 0
+  m_Name: Persian_61
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8475919373719927740
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 847507313275351730}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.7380589, y: 0.7786136, z: 1.6271048}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 60
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &5451769540297518950
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 847507313275351730}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.5, y: 0}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &973779736496022631
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2335682820359848355}
+  - component: {fileID: 9144115182678220136}
+  m_Layer: 0
+  m_Name: Persian_33
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2335682820359848355
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 973779736496022631}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.6864534, y: 4.084763, z: -1.5997}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 32
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &9144115182678220136
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 973779736496022631}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0, y: 0.37}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &1336338142563921761
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3387501594015687057}
+  - component: {fileID: 5483257371166816130}
+  m_Layer: 0
+  m_Name: Persian_36
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3387501594015687057
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1336338142563921761}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.7282941, y: 4.1345944, z: 0.71827036}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 35
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &5483257371166816130
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1336338142563921761}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.37, y: 0.37}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &1737489630251326148
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3058653484647611040}
+  - component: {fileID: 8493848807480285758}
+  m_Layer: 0
+  m_Name: Persian_55
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3058653484647611040
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1737489630251326148}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.7646524, y: 1.9986603, z: 3.13575}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 54
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &8493848807480285758
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1737489630251326148}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.74, y: 0.12}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &1742456640337499684
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5941957053670749519}
+  - component: {fileID: 3888457317741008056}
+  m_Layer: 0
+  m_Name: Persian_14
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5941957053670749519
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1742456640337499684}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.6377406, y: 7.1144733, z: 2.3601878}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 13
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &3888457317741008056
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1742456640337499684}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.62, y: 0.75}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &1972300047192208478
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 814230942275064359}
+  - component: {fileID: 4391054956346521779}
+  m_Layer: 0
+  m_Name: Persian_24
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &814230942275064359
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1972300047192208478}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.7008423, y: 6.077993, z: 3.9307325}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 23
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &4391054956346521779
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1972300047192208478}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.87, y: 0.63}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &1979613642058303403
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5119175355225349373}
+  - component: {fileID: 4363575685346462354}
+  m_Layer: 0
+  m_Name: Persian_57
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5119175355225349373
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1979613642058303403}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.6864534, y: 0.71811545, z: -1.5997}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 56
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &4363575685346462354
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1979613642058303403}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0, y: 0}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &2161224164917568039
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6372740516793255429}
+  - component: {fileID: 3534904677808974543}
+  m_Layer: 0
+  m_Name: Persian_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6372740516793255429
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2161224164917568039}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.5518172, y: 7.9615965, z: -0.96831846}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &3534904677808974543
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2161224164917568039}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.12, y: 0.87}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &2314838544235722973
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2424598960057635343}
+  - component: {fileID: 2769498949327450910}
+  m_Layer: 0
+  m_Name: Persian_6
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2424598960057635343
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2314838544235722973}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.60843664, y: 8.021393, z: 2.3485944}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &2769498949327450910
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2314838544235722973}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.62, y: 0.87}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &2321415027357663840
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4353972570176014565}
+  - component: {fileID: 7861735325970909729}
+  m_Layer: 0
+  m_Name: Persian_25
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4353972570176014565
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2321415027357663840}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.6477447, y: 5.061445, z: -1.6217973}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 24
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &7861735325970909729
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2321415027357663840}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0, y: 1.5}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &2369517440114737093
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 492642991524577825}
+  - component: {fileID: 9153427935178179975}
+  m_Layer: 0
+  m_Name: Persian_8
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &492642991524577825
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2369517440114737093}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.6427861, y: 7.971563, z: 3.8975883}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &9153427935178179975
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2369517440114737093}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.87, y: 0.87}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &2690651354746713887
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6069741539711692468}
+  - component: {fileID: 2148548667088928779}
+  m_Layer: 0
+  m_Name: Persian_5
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6069741539711692468
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2690651354746713887}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.59318703, y: 8.011427, z: 1.5392666}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &2148548667088928779
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2690651354746713887}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.5, y: 0.87}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &2793233961897262822
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5191834768017305589}
+  - component: {fileID: 8265066191685926679}
+  m_Layer: 0
+  m_Name: Persian_28
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5191834768017305589
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2793233961897262822}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.6895872, y: 5.1112766, z: 0.6961706}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 27
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &8265066191685926679
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2793233961897262822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.37, y: 1.5}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &3004537682790734273
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1032427560802034289}
+  - component: {fileID: 4214397029688084250}
+  m_Layer: 0
+  m_Name: Persian_54
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1032427560802034289
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3004537682790734273}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.75386083, y: 1.9986603, z: 2.4264834}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 53
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &4214397029688084250
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3004537682790734273}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.62, y: 0.12}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &3407367312591843696
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2727001139332230883}
+  - component: {fileID: 7485692173345927971}
+  m_Layer: 0
+  m_Name: Persian_32
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2727001139332230883
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3407367312591843696}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.7395505, y: 5.091345, z: 3.952831}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 31
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &7485692173345927971
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3407367312591843696}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.87, y: 1.5}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &3729588916362886973
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5364902840486839248}
+  - component: {fileID: 6888736994709769173}
+  m_Layer: 0
+  m_Name: Persian_4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5364902840486839248
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3729588916362886973}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.5828723, y: 7.9914947, z: 0.6403803}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &6888736994709769173
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3729588916362886973}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.37, y: 0.87}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &3845493671863704653
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5073613589993782085}
+  - component: {fileID: 1561552521974286834}
+  m_Layer: 0
+  m_Name: Persian_37
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5073613589993782085
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3845493671863704653}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.7380589, y: 4.1445603, z: 1.6271048}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 36
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &1561552521974286834
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3845493671863704653}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.5, y: 0.37}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &4376423449972284306
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 855019194255292679}
+  - component: {fileID: 591183133646246514}
+  m_Layer: 0
+  m_Name: Persian_44
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &855019194255292679
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4376423449972284306}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.7282941, y: 3.0775445, z: 0.71827036}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 43
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &591183133646246514
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4376423449972284306}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.37, y: 0.24}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &4534824088986824050
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 782756825835996469}
+  - component: {fileID: 6639217168435810333}
+  m_Layer: 0
+  m_Name: Persian_18
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &782756825835996469
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4534824088986824050}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.6198293, y: 6.0580597, z: -0.9346243}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 17
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &6639217168435810333
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4534824088986824050}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.12, y: 0.63}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &4551624523579401261
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4299588517692447890}
+  - component: {fileID: 7951742699175730032}
+  m_Layer: 0
+  m_Name: Persian_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4299588517692447890
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4551624523579401261}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.56150883, y: 7.971563, z: -0.23915184}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &7951742699175730032
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4551624523579401261}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.24, y: 0.87}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &4806045911140919812
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3334280170989427083}
+  - component: {fileID: 259654888341579011}
+  m_Layer: 0
+  m_Name: Persian_19
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3334280170989427083
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4806045911140919812}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.62952095, y: 6.077993, z: -0.20545708}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 18
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &259654888341579011
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4806045911140919812}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.24, y: 0.63}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &4892330680770528014
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 963238045562727471}
+  - component: {fileID: 5224262579546861518}
+  m_Layer: 0
+  m_Name: Persian_22
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &963238045562727471
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4892330680770528014}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.6764476, y: 6.1278243, z: 2.3822875}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 21
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &5224262579546861518
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4892330680770528014}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.62, y: 0.63}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &4955732429808398829
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2306657813076100068}
+  - component: {fileID: 4076948482031134317}
+  m_Layer: 0
+  m_Name: Persian_38
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2306657813076100068
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4955732429808398829}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.75386083, y: 4.164492, z: 2.4264834}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 37
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &4076948482031134317
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4955732429808398829}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.62, y: 0.37}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &4970856140460127751
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7002575178296456990}
+  - component: {fileID: 6571236953110248862}
+  m_Layer: 0
+  m_Name: Persian_20
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7002575178296456990
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4970856140460127751}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.6508808, y: 6.0979247, z: 0.67407566}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 19
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &6571236953110248862
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4970856140460127751}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.37, y: 0.63}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &5037963317529046439
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7852916361844213411}
+  - component: {fileID: 29362974742199687}
+  m_Layer: 0
+  m_Name: Persian_41
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7852916361844213411
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5037963317529046439}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.6864534, y: 3.0271294, z: -1.5997}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 40
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &29362974742199687
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5037963317529046439}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0, y: 0.24}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &5239911242373275989
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4453763938408543122}
+  - component: {fileID: 87056200203691741}
+  m_Layer: 0
+  m_Name: Persian_30
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4453763938408543122
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5239911242373275989}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.7151533, y: 5.141175, z: 2.4043849}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 29
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &87056200203691741
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5239911242373275989}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.62, y: 1.5}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &5536343946417700115
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5416998354554835679}
+  - component: {fileID: 8428386971871095331}
+  m_Layer: 0
+  m_Name: Persian_43
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5416998354554835679
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5536343946417700115}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.7069348, y: 3.0573785, z: -0.16126122}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 42
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &8428386971871095331
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5536343946417700115}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.24, y: 0.24}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &5579204321847337454
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 609107829462067781}
+  - component: {fileID: 6571427402229476222}
+  m_Layer: 0
+  m_Name: Persian_16
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &609107829462067781
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5579204321847337454}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.6720883, y: 7.0646424, z: 3.9091864}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 15
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &6571427402229476222
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5579204321847337454}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.87, y: 0.75}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &5753632984877685398
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4881156318154921644}
+  - component: {fileID: 5984274800911271076}
+  m_Layer: 0
+  m_Name: Persian_56
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4881156318154921644
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5753632984877685398}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.77825737, y: 1.948245, z: 3.9749272}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 55
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &5984274800911271076
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5753632984877685398}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.87, y: 0.12}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &5821405428971687879
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3614913241525729920}
+  - component: {fileID: 6405044264515610750}
+  m_Layer: 0
+  m_Name: Persian_34
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3614913241525729920
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5821405428971687879}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.69724256, y: 4.09473, z: -0.890432}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 33
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &6405044264515610750
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5821405428971687879}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.12, y: 0.37}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &5841372407408876630
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5189727246075945324}
+  - component: {fileID: 4831105026165854519}
+  m_Layer: 0
+  m_Name: Persian_53
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5189727246075945324
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5841372407408876630}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.7380589, y: 1.9784942, z: 1.6271048}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 52
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &4831105026165854519
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5841372407408876630}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.5, y: 0.12}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &6260575285203345442
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7893762836540464432}
+  - component: {fileID: 6001149825523045379}
+  m_Layer: 0
+  m_Name: Persian_59
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7893762836540464432
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6260575285203345442}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.7069348, y: 0.7483646, z: -0.16126122}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 58
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &6001149825523045379
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6260575285203345442}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.24, y: 0}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &6437428297143049341
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2642826550215549069}
+  - component: {fileID: 3106189945716238310}
+  m_Layer: 0
+  m_Name: Persian_35
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2642826550215549069
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6437428297143049341}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.7069348, y: 4.114661, z: -0.16126122}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 34
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &3106189945716238310
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6437428297143049341}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.24, y: 0.37}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &6606985661128708152
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7576341715143604007}
+  - component: {fileID: 5343183176774007142}
+  m_Layer: 0
+  m_Name: Persian_48
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7576341715143604007
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6606985661128708152}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.77825737, y: 3.0573785, z: 3.9749272}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 47
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &5343183176774007142
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6606985661128708152}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.87, y: 0.24}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &6782745709717635594
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2147961402634367839}
+  - component: {fileID: 4326017581073336712}
+  m_Layer: 0
+  m_Name: Persian_17
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2147961402634367839
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6782745709717635594}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.60903716, y: 6.048094, z: -1.6438959}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 16
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &4326017581073336712
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6782745709717635594}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0, y: 0.63}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &6952363321868715110
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5540937171967880332}
+  - component: {fileID: 1093886741822878213}
+  m_Layer: 0
+  m_Name: Persian_29
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5540937171967880332
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6952363321868715110}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.69935554, y: 5.1212416, z: 1.6050086}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 28
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &1093886741822878213
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6952363321868715110}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.5, y: 1.5}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &6958007622917791750
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5659004109325088160}
+  - component: {fileID: 2928891370585554861}
+  m_Layer: 0
+  m_Name: Persian_45
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5659004109325088160
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6958007622917791750}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.7380589, y: 3.0876276, z: 1.6271048}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 44
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &2928891370585554861
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6958007622917791750}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.5, y: 0.24}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &7149233698581976388
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7258387546308751387}
+  - component: {fileID: 1244692508464889700}
+  m_Layer: 0
+  m_Name: Persian_58
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7258387546308751387
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7149233698581976388}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.69724256, y: 0.7281985, z: -0.890432}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 57
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &1244692508464889700
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7149233698581976388}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.12, y: 0}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &7380115598919323675
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 954022267790877297}
+  - component: {fileID: 1597128802311424505}
+  m_Layer: 0
+  m_Name: Persian_11
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &954022267790877297
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7380115598919323675}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.6007633, y: 7.0646424, z: -0.22700503}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 10
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &1597128802311424505
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7380115598919323675}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.24, y: 0.75}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &7427915211493575897
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2799561811205914651}
+  - component: {fileID: 4501891606122205378}
+  m_Layer: 0
+  m_Name: Persian_27
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2799561811205914651
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7427915211493575897}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.66822666, y: 5.091345, z: -0.18336034}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 26
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &4501891606122205378
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7427915211493575897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.24, y: 1.5}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &7652718782516396120
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9119393102491882167}
+  - component: {fileID: 4337795673277628080}
+  m_Layer: 0
+  m_Name: Persian_31
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9119393102491882167
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7652718782516396120}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.7259442, y: 5.141175, z: 3.113654}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 30
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &4337795673277628080
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7652718782516396120}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.74, y: 1.5}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &7888699403162702587
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7355804959877337625}
+  - component: {fileID: 6457181879509044215}
+  m_Layer: 0
+  m_Name: Persian_12
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7355804959877337625
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7888699403162702587}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.61217207, y: 7.084574, z: 0.6519784}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 11
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &6457181879509044215
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7888699403162702587}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.37, y: 0.75}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &8031406776970211104
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6648116067439632358}
+  - component: {fileID: 6102771289039672318}
+  m_Layer: 0
+  m_Name: Persian_62
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6648116067439632358
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8031406776970211104}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.75386083, y: 0.79877967, z: 2.4264834}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 61
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &6102771289039672318
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8031406776970211104}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.62, y: 0}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &8062589014646445986
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4020685399673908267}
+  - component: {fileID: 5083771275234683582}
+  m_Layer: 0
+  m_Name: Persian_10
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4020685399673908267
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8062589014646445986}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.58057064, y: 7.0546765, z: -0.94677347}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 9
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &5083771275234683582
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8062589014646445986}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.12, y: 0.75}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &8198317947362659713
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3320083486254594678}
+  - component: {fileID: 6154219158356675678}
+  m_Layer: 0
+  m_Name: Persian_26
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3320083486254594678
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8198317947362659713}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.65853447, y: 5.0714116, z: -0.91252816}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 25
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &6154219158356675678
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8198317947362659713}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.12, y: 1.5}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &8437628278882408589
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4881149104765871195}
+  - component: {fileID: 7148959766619397660}
+  m_Layer: 0
+  m_Name: Persian_21
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4881149104765871195
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8437628278882408589}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.660645, y: 6.107891, z: 1.5829124}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 20
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &7148959766619397660
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8437628278882408589}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.5, y: 0.63}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &8533988546336350646
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8283565919833742355}
+  - component: {fileID: 6763283815522001943}
+  m_Layer: 0
+  m_Name: Persian_7
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8283565919833742355
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8533988546336350646}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.61977637, y: 8.021393, z: 3.0479047}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &6763283815522001943
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8533988546336350646}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.74, y: 0.87}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &8612249093182948621
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6707824930976390142}
+  m_Layer: 0
+  m_Name: Persian_Alphabet
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!4 &6707824930976390142
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8612249093182948621}
+  m_LocalRotation: {x: -0.6836764, y: -0.7102415, z: 0.12099582, w: 0.11620508}
+  m_LocalPosition: {x: -0.29, y: 0.617, z: -1.291}
+  m_LocalScale: {x: 0.2254168, y: 0.22541678, z: 0.2254168}
+  m_Children:
+  - {fileID: 978161844822912081}
+  - {fileID: 6372740516793255429}
+  - {fileID: 4299588517692447890}
+  - {fileID: 5364902840486839248}
+  - {fileID: 6069741539711692468}
+  - {fileID: 2424598960057635343}
+  - {fileID: 8283565919833742355}
+  - {fileID: 492642991524577825}
+  - {fileID: 3992491477691634767}
+  - {fileID: 4020685399673908267}
+  - {fileID: 954022267790877297}
+  - {fileID: 7355804959877337625}
+  - {fileID: 8920099809181861241}
+  - {fileID: 5941957053670749519}
+  - {fileID: 9138396786008251715}
+  - {fileID: 609107829462067781}
+  - {fileID: 2147961402634367839}
+  - {fileID: 782756825835996469}
+  - {fileID: 3334280170989427083}
+  - {fileID: 7002575178296456990}
+  - {fileID: 4881149104765871195}
+  - {fileID: 963238045562727471}
+  - {fileID: 6081893841937809572}
+  - {fileID: 814230942275064359}
+  - {fileID: 4353972570176014565}
+  - {fileID: 3320083486254594678}
+  - {fileID: 2799561811205914651}
+  - {fileID: 5191834768017305589}
+  - {fileID: 5540937171967880332}
+  - {fileID: 4453763938408543122}
+  - {fileID: 9119393102491882167}
+  - {fileID: 2727001139332230883}
+  - {fileID: 2335682820359848355}
+  - {fileID: 3614913241525729920}
+  - {fileID: 2642826550215549069}
+  - {fileID: 3387501594015687057}
+  - {fileID: 5073613589993782085}
+  - {fileID: 2306657813076100068}
+  - {fileID: 7595335497310922218}
+  - {fileID: 397797082100943593}
+  - {fileID: 7852916361844213411}
+  - {fileID: 3459234647565261463}
+  - {fileID: 5416998354554835679}
+  - {fileID: 855019194255292679}
+  - {fileID: 5659004109325088160}
+  - {fileID: 6550950476295909976}
+  - {fileID: 7874950631685075034}
+  - {fileID: 7576341715143604007}
+  - {fileID: 5575109029668879067}
+  - {fileID: 4216766246978437788}
+  - {fileID: 5438925222155906151}
+  - {fileID: 3012373413263290788}
+  - {fileID: 5189727246075945324}
+  - {fileID: 1032427560802034289}
+  - {fileID: 3058653484647611040}
+  - {fileID: 4881156318154921644}
+  - {fileID: 5119175355225349373}
+  - {fileID: 7258387546308751387}
+  - {fileID: 7893762836540464432}
+  - {fileID: 7316108413568961448}
+  - {fileID: 8475919373719927740}
+  - {fileID: 6648116067439632358}
+  - {fileID: 4250945963113850390}
+  - {fileID: 8802399103016864380}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.744, y: -160.698, z: 87.943}
+--- !u!1 &8649493814855212645
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5575109029668879067}
+  - component: {fileID: 6963202140455233587}
+  m_Layer: 0
+  m_Name: Persian_49
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5575109029668879067
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8649493814855212645}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.6864534, y: 1.9179962, z: -1.5997}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 48
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &6963202140455233587
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8649493814855212645}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0, y: 0.12}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &8795160655442270008
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3459234647565261463}
+  - component: {fileID: 421321140992302028}
+  m_Layer: 0
+  m_Name: Persian_42
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3459234647565261463
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8795160655442270008}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.69724256, y: 3.0372126, z: -0.890432}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 41
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &421321140992302028
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8795160655442270008}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.12, y: 0.24}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &8816253763448863720
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 978161844822912081}
+  - component: {fileID: 6515856434225317625}
+  m_Layer: 0
+  m_Name: Persian_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &978161844822912081
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8816253763448863720}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.5410251, y: 7.9416623, z: -1.6775876}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &6515856434225317625
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8816253763448863720}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0, y: 0.87}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &8851721931612730641
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4216766246978437788}
+  - component: {fileID: 3134570334759609408}
+  m_Layer: 0
+  m_Name: Persian_50
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4216766246978437788
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8851721931612730641}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.69724256, y: 1.9280791, z: -0.890432}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 49
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &3134570334759609408
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8851721931612730641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.12, y: 0.12}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &9002515448063726276
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8920099809181861241}
+  - component: {fileID: 97115486436158680}
+  m_Layer: 0
+  m_Name: Persian_13
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8920099809181861241
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9002515448063726276}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.631894, y: 7.1045074, z: 1.5613627}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 12
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &97115486436158680
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9002515448063726276}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.5, y: 0.75}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &9101338488778596160
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3992491477691634767}
+  - component: {fileID: 418607289274264058}
+  m_Layer: 0
+  m_Name: Persian_9
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3992491477691634767
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9101338488778596160}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.5697809, y: 7.0347433, z: -1.6560391}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &418607289274264058
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9101338488778596160}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0, y: 0.75}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &9132461577005733767
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6081893841937809572}
+  - component: {fileID: 5500602518906101370}
+  m_Layer: 0
+  m_Name: Persian_23
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6081893841937809572
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9132461577005733767}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.6872373, y: 6.1278253, z: 3.0915577}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 22
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &5500602518906101370
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9132461577005733767}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.74, y: 0.63}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1
+--- !u!1 &9133239504591604709
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9138396786008251715}
+  - component: {fileID: 2805594312619523698}
+  m_Layer: 0
+  m_Name: Persian_15
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9138396786008251715
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9133239504591604709}
+  m_LocalRotation: {x: 0.0053176894, y: -0.700966, z: 0.01914209, w: 0.712918}
+  m_LocalPosition: {x: 0.65848327, y: 7.1144733, z: 3.0700068}
+  m_LocalScale: {x: 1.2482212, y: 1.2482212, z: 1.248221}
+  m_Children: []
+  m_Father: {fileID: 6707824930976390142}
+  m_RootOrder: 14
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &2805594312619523698
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9133239504591604709}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 4be5b423b2f947a4fb6f607122f8830e, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.74, y: 0.75}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 0.5}
+  m_Size: {x: 0.2, y: 0.2, z: 1}
+  m_FadeFactor: 1

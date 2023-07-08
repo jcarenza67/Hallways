@@ -1,0 +1,2426 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &127442140652043616
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 159697188254700527}
+  - component: {fileID: 499995727042489141}
+  m_Layer: 0
+  m_Name: Adinkra_9
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &159697188254700527
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 127442140652043616}
+  m_LocalRotation: {x: 0.0058429237, y: -0.68106335, z: 0.01898834, w: 0.731955}
+  m_LocalPosition: {x: -0.470729, y: 0.8687866, z: -1.5028627}
+  m_LocalScale: {x: 0.6067421, y: 0.6067417, z: 0.60674196}
+  m_Children: []
+  m_Father: {fileID: 5331083756837791178}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &499995727042489141
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 127442140652043616}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 00e356051204396449ee17b4042744bd, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0, y: 0.75}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1.5}
+  m_Size: {x: 0.2, y: 0.2, z: 3}
+  m_FadeFactor: 1
+--- !u!1 &165824009656139687
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 797730518850308615}
+  - component: {fileID: 4731473450348931165}
+  m_Layer: 0
+  m_Name: Adinkra_21
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &797730518850308615
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 165824009656139687}
+  m_LocalRotation: {x: 0.0058429237, y: -0.68106335, z: 0.01898834, w: 0.731955}
+  m_LocalPosition: {x: -0.34072873, y: 0.40878674, z: 0.06713803}
+  m_LocalScale: {x: 0.6067421, y: 0.6067417, z: 0.60674196}
+  m_Children: []
+  m_Father: {fileID: 5331083756837791178}
+  m_RootOrder: 20
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &4731473450348931165
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 165824009656139687}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 00e356051204396449ee17b4042744bd, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.5, y: 0.63}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1.5}
+  m_Size: {x: 0.2, y: 0.2, z: 3}
+  m_FadeFactor: 1
+--- !u!1 &207559324572616367
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1329308503147068917}
+  - component: {fileID: 8008770745432793146}
+  m_Layer: 0
+  m_Name: Adinkra_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1329308503147068917
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 207559324572616367}
+  m_LocalRotation: {x: 0.0058429237, y: -0.68106335, z: 0.01898834, w: 0.731955}
+  m_LocalPosition: {x: -0.46072853, y: 1.318787, z: -1.1728626}
+  m_LocalScale: {x: 0.6067421, y: 0.6067417, z: 0.60674196}
+  m_Children: []
+  m_Father: {fileID: 5331083756837791178}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &8008770745432793146
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 207559324572616367}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 00e356051204396449ee17b4042744bd, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.12, y: 0.87}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1.5}
+  m_Size: {x: 0.2, y: 0.2, z: 3}
+  m_FadeFactor: 1
+--- !u!1 &1027468215951973326
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4921075798774061790}
+  - component: {fileID: 3317557614289188662}
+  m_Layer: 0
+  m_Name: Adinkra_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4921075798774061790
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1027468215951973326}
+  m_LocalRotation: {x: 0.0058429237, y: -0.68106335, z: 0.01898834, w: 0.731955}
+  m_LocalPosition: {x: -0.43072844, y: 1.3187871, z: -0.81286263}
+  m_LocalScale: {x: 0.6067421, y: 0.6067417, z: 0.60674196}
+  m_Children: []
+  m_Father: {fileID: 5331083756837791178}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &3317557614289188662
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1027468215951973326}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 00e356051204396449ee17b4042744bd, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.24, y: 0.87}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1.5}
+  m_Size: {x: 0.2, y: 0.2, z: 3}
+  m_FadeFactor: 1
+--- !u!1 &1256779966119779490
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5552650724644042056}
+  - component: {fileID: 2488991192924529714}
+  m_Layer: 0
+  m_Name: Adinkra_34
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5552650724644042056
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1256779966119779490}
+  m_LocalRotation: {x: 0.0058429237, y: -0.68106335, z: 0.01898834, w: 0.731955}
+  m_LocalPosition: {x: -0.38072857, y: -0.56121314, z: -1.1328622}
+  m_LocalScale: {x: 0.6067421, y: 0.6067417, z: 0.60674196}
+  m_Children: []
+  m_Father: {fileID: 5331083756837791178}
+  m_RootOrder: 33
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &2488991192924529714
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1256779966119779490}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 00e356051204396449ee17b4042744bd, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.12, y: 0.37}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1.5}
+  m_Size: {x: 0.2, y: 0.2, z: 3}
+  m_FadeFactor: 1
+--- !u!1 &1346762615591117139
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4590714316860781296}
+  - component: {fileID: 3361259438818501656}
+  m_Layer: 0
+  m_Name: Adinkra_17
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4590714316860781296
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1346762615591117139}
+  m_LocalRotation: {x: 0.0058429237, y: -0.68106335, z: 0.01898834, w: 0.731955}
+  m_LocalPosition: {x: -0.45072892, y: 0.38878632, z: -1.5028629}
+  m_LocalScale: {x: 0.6067421, y: 0.6067417, z: 0.60674196}
+  m_Children: []
+  m_Father: {fileID: 5331083756837791178}
+  m_RootOrder: 16
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &3361259438818501656
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1346762615591117139}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 00e356051204396449ee17b4042744bd, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0, y: 0.63}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1.5}
+  m_Size: {x: 0.2, y: 0.2, z: 3}
+  m_FadeFactor: 1
+--- !u!1 &1428374195615985369
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5331083756837791178}
+  m_Layer: 0
+  m_Name: Adinkra_Alphabet
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!4 &5331083756837791178
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1428374195615985369}
+  m_LocalRotation: {x: -0.689719, y: -0.722908, z: 0.025943678, w: -0.031918027}
+  m_LocalPosition: {x: 1.422, y: 0.801, z: 2.621}
+  m_LocalScale: {x: 0.46618104, y: 0.46618104, z: 0.46618104}
+  m_Children:
+  - {fileID: 5308510839633891633}
+  - {fileID: 1329308503147068917}
+  - {fileID: 4921075798774061790}
+  - {fileID: 8808021857940183424}
+  - {fileID: 4804657639550641236}
+  - {fileID: 7311002671498183856}
+  - {fileID: 4343374177828435229}
+  - {fileID: 341411993397359512}
+  - {fileID: 159697188254700527}
+  - {fileID: 638913443839487817}
+  - {fileID: 7492052898249231086}
+  - {fileID: 410023220731744586}
+  - {fileID: 4565484146907797853}
+  - {fileID: 6288560081972767882}
+  - {fileID: 492738603560590565}
+  - {fileID: 7118436544828372589}
+  - {fileID: 4590714316860781296}
+  - {fileID: 4922817741125100625}
+  - {fileID: 2577420603392755740}
+  - {fileID: 333238113655803486}
+  - {fileID: 797730518850308615}
+  - {fileID: 2365617001811978214}
+  - {fileID: 5168153643833726767}
+  - {fileID: 5253761560663870756}
+  - {fileID: 3719920713085224805}
+  - {fileID: 2817523630119728198}
+  - {fileID: 4310910205025607917}
+  - {fileID: 8344334612002580649}
+  - {fileID: 2412071222104375510}
+  - {fileID: 6937670530536010991}
+  - {fileID: 483920168329759173}
+  - {fileID: 2955382146098301379}
+  - {fileID: 5160882666793871797}
+  - {fileID: 5552650724644042056}
+  - {fileID: 5746884501774353151}
+  - {fileID: 2092072744663660788}
+  - {fileID: 5217196229272809352}
+  - {fileID: 5602872623665549895}
+  - {fileID: 6709836709428018194}
+  - {fileID: 4438997437965769956}
+  - {fileID: 3116645831533011487}
+  - {fileID: 3968801080589074215}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 4.677, y: -180.596, z: 87.284}
+--- !u!1 &1753550965009743928
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2577420603392755740}
+  - component: {fileID: 4284774039374833375}
+  m_Layer: 0
+  m_Name: Adinkra_19
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2577420603392755740
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1753550965009743928}
+  m_LocalRotation: {x: 0.0058429237, y: -0.68106335, z: 0.01898834, w: 0.731955}
+  m_LocalPosition: {x: -0.40072837, y: 0.39878654, z: -0.80286205}
+  m_LocalScale: {x: 0.6067421, y: 0.6067417, z: 0.60674196}
+  m_Children: []
+  m_Father: {fileID: 5331083756837791178}
+  m_RootOrder: 18
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &4284774039374833375
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1753550965009743928}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 00e356051204396449ee17b4042744bd, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.24, y: 0.63}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1.5}
+  m_Size: {x: 0.2, y: 0.2, z: 3}
+  m_FadeFactor: 1
+--- !u!1 &2383054796018991564
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3116645831533011487}
+  - component: {fileID: 5541307368587594560}
+  m_Layer: 0
+  m_Name: Adinkra_41
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3116645831533011487
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2383054796018991564}
+  m_LocalRotation: {x: 0.0058429237, y: -0.68106335, z: 0.01898834, w: 0.731955}
+  m_LocalPosition: {x: -0.39072856, y: -1.1012146, z: -1.4728622}
+  m_LocalScale: {x: 0.6067421, y: 0.6067417, z: 0.60674196}
+  m_Children: []
+  m_Father: {fileID: 5331083756837791178}
+  m_RootOrder: 40
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &5541307368587594560
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2383054796018991564}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 00e356051204396449ee17b4042744bd, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0, y: 0.25}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1.5}
+  m_Size: {x: 0.2, y: 0.2, z: 3}
+  m_FadeFactor: 1
+--- !u!1 &2459632915736397306
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2955382146098301379}
+  - component: {fileID: 7012903282160890852}
+  m_Layer: 0
+  m_Name: Adinkra_32
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2955382146098301379
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2459632915736397306}
+  m_LocalRotation: {x: 0.0058429237, y: -0.68106335, z: 0.01898834, w: 0.731955}
+  m_LocalPosition: {x: -0.23072849, y: -0.081214495, z: 1.2171377}
+  m_LocalScale: {x: 0.6067421, y: 0.6067417, z: 0.60674196}
+  m_Children: []
+  m_Father: {fileID: 5331083756837791178}
+  m_RootOrder: 31
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &7012903282160890852
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2459632915736397306}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 00e356051204396449ee17b4042744bd, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.87, y: 1.5}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1.5}
+  m_Size: {x: 0.2, y: 0.2, z: 3}
+  m_FadeFactor: 1
+--- !u!1 &2658969356174943967
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3719920713085224805}
+  - component: {fileID: 7499148909295437296}
+  m_Layer: 0
+  m_Name: Adinkra_25
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3719920713085224805
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2658969356174943967}
+  m_LocalRotation: {x: 0.0058429237, y: -0.68106335, z: 0.01898834, w: 0.731955}
+  m_LocalPosition: {x: -0.4307281, y: -0.09121423, z: -1.4928622}
+  m_LocalScale: {x: 0.6067421, y: 0.6067417, z: 0.60674196}
+  m_Children: []
+  m_Father: {fileID: 5331083756837791178}
+  m_RootOrder: 24
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &7499148909295437296
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2658969356174943967}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 00e356051204396449ee17b4042744bd, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0, y: 1.5}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1.5}
+  m_Size: {x: 0.2, y: 0.2, z: 3}
+  m_FadeFactor: 1
+--- !u!1 &2667167197663637125
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2817523630119728198}
+  - component: {fileID: 8630756223273809909}
+  m_Layer: 0
+  m_Name: Adinkra_26
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2817523630119728198
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2667167197663637125}
+  m_LocalRotation: {x: 0.0058429237, y: -0.68106335, z: 0.01898834, w: 0.731955}
+  m_LocalPosition: {x: -0.40072817, y: -0.09121386, z: -1.1428626}
+  m_LocalScale: {x: 0.6067421, y: 0.6067417, z: 0.60674196}
+  m_Children: []
+  m_Father: {fileID: 5331083756837791178}
+  m_RootOrder: 25
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &8630756223273809909
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2667167197663637125}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 00e356051204396449ee17b4042744bd, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.12, y: 1.5}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1.5}
+  m_Size: {x: 0.2, y: 0.2, z: 3}
+  m_FadeFactor: 1
+--- !u!1 &2732111779647265503
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5160882666793871797}
+  - component: {fileID: 6335833894269141147}
+  m_Layer: 0
+  m_Name: Adinkra_33
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5160882666793871797
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2732111779647265503}
+  m_LocalRotation: {x: 0.0058429237, y: -0.68106335, z: 0.01898834, w: 0.731955}
+  m_LocalPosition: {x: -0.41072804, y: -0.57121336, z: -1.4828632}
+  m_LocalScale: {x: 0.6067421, y: 0.6067417, z: 0.60674196}
+  m_Children: []
+  m_Father: {fileID: 5331083756837791178}
+  m_RootOrder: 32
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &6335833894269141147
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2732111779647265503}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 00e356051204396449ee17b4042744bd, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0, y: 0.37}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1.5}
+  m_Size: {x: 0.2, y: 0.2, z: 3}
+  m_FadeFactor: 1
+--- !u!1 &3157791447126344061
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7311002671498183856}
+  - component: {fileID: 8983793362459434742}
+  m_Layer: 0
+  m_Name: Adinkra_6
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7311002671498183856
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3157791447126344061}
+  m_LocalRotation: {x: 0.0058429237, y: -0.68106335, z: 0.01898834, w: 0.731955}
+  m_LocalPosition: {x: -0.34072846, y: 1.3387864, z: 0.43713754}
+  m_LocalScale: {x: 0.6067421, y: 0.6067417, z: 0.60674196}
+  m_Children: []
+  m_Father: {fileID: 5331083756837791178}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &8983793362459434742
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3157791447126344061}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 00e356051204396449ee17b4042744bd, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.62, y: 0.87}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1.5}
+  m_Size: {x: 0.2, y: 0.2, z: 3}
+  m_FadeFactor: 1
+--- !u!1 &3219383912545523261
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8808021857940183424}
+  - component: {fileID: 4642978655531338162}
+  m_Layer: 0
+  m_Name: Adinkra_4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8808021857940183424
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3219383912545523261}
+  m_LocalRotation: {x: 0.0058429237, y: -0.68106335, z: 0.01898834, w: 0.731955}
+  m_LocalPosition: {x: -0.4007285, y: 1.3287861, z: -0.3928618}
+  m_LocalScale: {x: 0.6067421, y: 0.6067417, z: 0.60674196}
+  m_Children: []
+  m_Father: {fileID: 5331083756837791178}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &4642978655531338162
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3219383912545523261}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 00e356051204396449ee17b4042744bd, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.37, y: 0.87}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1.5}
+  m_Size: {x: 0.2, y: 0.2, z: 3}
+  m_FadeFactor: 1
+--- !u!1 &3241101093654052604
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6937670530536010991}
+  - component: {fileID: 7848281697383474976}
+  m_Layer: 0
+  m_Name: Adinkra_30
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6937670530536010991
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3241101093654052604}
+  m_LocalRotation: {x: 0.0058429237, y: -0.68106335, z: 0.01898834, w: 0.731955}
+  m_LocalPosition: {x: -0.29072836, y: -0.061213683, z: 0.46713758}
+  m_LocalScale: {x: 0.6067421, y: 0.6067417, z: 0.60674196}
+  m_Children: []
+  m_Father: {fileID: 5331083756837791178}
+  m_RootOrder: 29
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &7848281697383474976
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3241101093654052604}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 00e356051204396449ee17b4042744bd, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.62, y: 1.5}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1.5}
+  m_Size: {x: 0.2, y: 0.2, z: 3}
+  m_FadeFactor: 1
+--- !u!1 &3789211285751915893
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5168153643833726767}
+  - component: {fileID: 9082521684337611936}
+  m_Layer: 0
+  m_Name: Adinkra_23
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5168153643833726767
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3789211285751915893}
+  m_LocalRotation: {x: 0.0058429237, y: -0.68106335, z: 0.01898834, w: 0.731955}
+  m_LocalPosition: {x: -0.28072825, y: 0.4187862, z: 0.7971378}
+  m_LocalScale: {x: 0.6067421, y: 0.6067417, z: 0.60674196}
+  m_Children: []
+  m_Father: {fileID: 5331083756837791178}
+  m_RootOrder: 22
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &9082521684337611936
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3789211285751915893}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 00e356051204396449ee17b4042744bd, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.74, y: 0.63}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1.5}
+  m_Size: {x: 0.2, y: 0.2, z: 3}
+  m_FadeFactor: 1
+--- !u!1 &3812088047551118207
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4922817741125100625}
+  - component: {fileID: 5739289899156047689}
+  m_Layer: 0
+  m_Name: Adinkra_18
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4922817741125100625
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3812088047551118207}
+  m_LocalRotation: {x: 0.0058429237, y: -0.68106335, z: 0.01898834, w: 0.731955}
+  m_LocalPosition: {x: -0.42072856, y: 0.38878515, z: -1.1528631}
+  m_LocalScale: {x: 0.6067421, y: 0.6067417, z: 0.60674196}
+  m_Children: []
+  m_Father: {fileID: 5331083756837791178}
+  m_RootOrder: 17
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &5739289899156047689
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3812088047551118207}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 00e356051204396449ee17b4042744bd, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.12, y: 0.63}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1.5}
+  m_Size: {x: 0.2, y: 0.2, z: 3}
+  m_FadeFactor: 1
+--- !u!1 &3832592305235568707
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 341411993397359512}
+  - component: {fileID: 1825971466699022342}
+  m_Layer: 0
+  m_Name: Adinkra_8
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &341411993397359512
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3832592305235568707}
+  m_LocalRotation: {x: 0.0058429237, y: -0.68106335, z: 0.01898834, w: 0.731955}
+  m_LocalPosition: {x: -0.28072822, y: 1.3187855, z: 1.1871377}
+  m_LocalScale: {x: 0.6067421, y: 0.6067417, z: 0.60674196}
+  m_Children: []
+  m_Father: {fileID: 5331083756837791178}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &1825971466699022342
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3832592305235568707}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 00e356051204396449ee17b4042744bd, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.87, y: 0.87}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1.5}
+  m_Size: {x: 0.2, y: 0.2, z: 3}
+  m_FadeFactor: 1
+--- !u!1 &4189819613068338247
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4438997437965769956}
+  - component: {fileID: 4265660439813383596}
+  m_Layer: 0
+  m_Name: Adinkra_40
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4438997437965769956
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4189819613068338247}
+  m_LocalRotation: {x: 0.0058429237, y: -0.68106335, z: 0.01898834, w: 0.731955}
+  m_LocalPosition: {x: -0.21072829, y: -0.5512138, z: 1.2271369}
+  m_LocalScale: {x: 0.6067421, y: 0.6067417, z: 0.60674196}
+  m_Children: []
+  m_Father: {fileID: 5331083756837791178}
+  m_RootOrder: 39
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &4265660439813383596
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4189819613068338247}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 00e356051204396449ee17b4042744bd, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.87, y: 0.37}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1.5}
+  m_Size: {x: 0.2, y: 0.2, z: 3}
+  m_FadeFactor: 1
+--- !u!1 &4659957724546510476
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2092072744663660788}
+  - component: {fileID: 3365012493372664988}
+  m_Layer: 0
+  m_Name: Adinkra_36
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2092072744663660788
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4659957724546510476}
+  m_LocalRotation: {x: 0.0058429237, y: -0.68106335, z: 0.01898834, w: 0.731955}
+  m_LocalPosition: {x: -0.3307286, y: -0.54121315, z: -0.3528622}
+  m_LocalScale: {x: 0.6067421, y: 0.6067417, z: 0.60674196}
+  m_Children: []
+  m_Father: {fileID: 5331083756837791178}
+  m_RootOrder: 35
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &3365012493372664988
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4659957724546510476}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 00e356051204396449ee17b4042744bd, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.37, y: 0.37}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1.5}
+  m_Size: {x: 0.2, y: 0.2, z: 3}
+  m_FadeFactor: 1
+--- !u!1 &4784570704134920204
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4343374177828435229}
+  - component: {fileID: 515985133495582447}
+  m_Layer: 0
+  m_Name: Adinkra_7
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4343374177828435229
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4784570704134920204}
+  m_LocalRotation: {x: 0.0058429237, y: -0.68106335, z: 0.01898834, w: 0.731955}
+  m_LocalPosition: {x: -0.32072836, y: 1.3387865, z: 0.77713734}
+  m_LocalScale: {x: 0.6067421, y: 0.6067417, z: 0.60674196}
+  m_Children: []
+  m_Father: {fileID: 5331083756837791178}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &515985133495582447
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4784570704134920204}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 00e356051204396449ee17b4042744bd, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.74, y: 0.87}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1.5}
+  m_Size: {x: 0.2, y: 0.2, z: 3}
+  m_FadeFactor: 1
+--- !u!1 &4846883293385888004
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5253761560663870756}
+  - component: {fileID: 1896531943616279870}
+  m_Layer: 0
+  m_Name: Adinkra_24
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5253761560663870756
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4846883293385888004}
+  m_LocalRotation: {x: 0.0058429237, y: -0.68106335, z: 0.01898834, w: 0.731955}
+  m_LocalPosition: {x: -0.25072858, y: 0.3987861, z: 1.2071378}
+  m_LocalScale: {x: 0.6067421, y: 0.6067417, z: 0.60674196}
+  m_Children: []
+  m_Father: {fileID: 5331083756837791178}
+  m_RootOrder: 23
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &1896531943616279870
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4846883293385888004}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 00e356051204396449ee17b4042744bd, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.87, y: 0.63}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1.5}
+  m_Size: {x: 0.2, y: 0.2, z: 3}
+  m_FadeFactor: 1
+--- !u!1 &4882183016862549763
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6709836709428018194}
+  - component: {fileID: 1922284979598948808}
+  m_Layer: 0
+  m_Name: Adinkra_39
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6709836709428018194
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4882183016862549763}
+  m_LocalRotation: {x: 0.0058429237, y: -0.68106335, z: 0.01898834, w: 0.731955}
+  m_LocalPosition: {x: -0.2407284, y: -0.53121376, z: 0.8171377}
+  m_LocalScale: {x: 0.6067421, y: 0.6067417, z: 0.60674196}
+  m_Children: []
+  m_Father: {fileID: 5331083756837791178}
+  m_RootOrder: 38
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &1922284979598948808
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4882183016862549763}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 00e356051204396449ee17b4042744bd, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.74, y: 0.37}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1.5}
+  m_Size: {x: 0.2, y: 0.2, z: 3}
+  m_FadeFactor: 1
+--- !u!1 &4985726784082158211
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5746884501774353151}
+  - component: {fileID: 5685406767146989104}
+  m_Layer: 0
+  m_Name: Adinkra_35
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5746884501774353151
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4985726784082158211}
+  m_LocalRotation: {x: 0.0058429237, y: -0.68106335, z: 0.01898834, w: 0.731955}
+  m_LocalPosition: {x: -0.36072844, y: -0.55121344, z: -0.7828625}
+  m_LocalScale: {x: 0.6067421, y: 0.6067417, z: 0.60674196}
+  m_Children: []
+  m_Father: {fileID: 5331083756837791178}
+  m_RootOrder: 34
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &5685406767146989104
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4985726784082158211}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 00e356051204396449ee17b4042744bd, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.24, y: 0.37}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1.5}
+  m_Size: {x: 0.2, y: 0.2, z: 3}
+  m_FadeFactor: 1
+--- !u!1 &5088143546654820105
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4310910205025607917}
+  - component: {fileID: 7362030411952769700}
+  m_Layer: 0
+  m_Name: Adinkra_27
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4310910205025607917
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5088143546654820105}
+  m_LocalRotation: {x: 0.0058429237, y: -0.68106335, z: 0.01898834, w: 0.731955}
+  m_LocalPosition: {x: -0.38072827, y: -0.08121413, z: -0.79286206}
+  m_LocalScale: {x: 0.6067421, y: 0.6067417, z: 0.60674196}
+  m_Children: []
+  m_Father: {fileID: 5331083756837791178}
+  m_RootOrder: 26
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &7362030411952769700
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5088143546654820105}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 00e356051204396449ee17b4042744bd, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.24, y: 1.5}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1.5}
+  m_Size: {x: 0.2, y: 0.2, z: 3}
+  m_FadeFactor: 1
+--- !u!1 &5182518171480507621
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2412071222104375510}
+  - component: {fileID: 699226999168071679}
+  m_Layer: 0
+  m_Name: Adinkra_29
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2412071222104375510
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5182518171480507621}
+  m_LocalRotation: {x: 0.0058429237, y: -0.68106335, z: 0.01898834, w: 0.731955}
+  m_LocalPosition: {x: -0.32072845, y: -0.061214074, z: 0.07713811}
+  m_LocalScale: {x: 0.6067421, y: 0.6067417, z: 0.60674196}
+  m_Children: []
+  m_Father: {fileID: 5331083756837791178}
+  m_RootOrder: 28
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &699226999168071679
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5182518171480507621}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 00e356051204396449ee17b4042744bd, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.5, y: 1.5}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1.5}
+  m_Size: {x: 0.2, y: 0.2, z: 3}
+  m_FadeFactor: 1
+--- !u!1 &5372089151017734186
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8344334612002580649}
+  - component: {fileID: 3616898287723511480}
+  m_Layer: 0
+  m_Name: Adinkra_28
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8344334612002580649
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5372089151017734186}
+  m_LocalRotation: {x: 0.0058429237, y: -0.68106335, z: 0.01898834, w: 0.731955}
+  m_LocalPosition: {x: -0.35072878, y: -0.07121391, z: -0.36286175}
+  m_LocalScale: {x: 0.6067421, y: 0.6067417, z: 0.60674196}
+  m_Children: []
+  m_Father: {fileID: 5331083756837791178}
+  m_RootOrder: 27
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &3616898287723511480
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5372089151017734186}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 00e356051204396449ee17b4042744bd, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.37, y: 1.5}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1.5}
+  m_Size: {x: 0.2, y: 0.2, z: 3}
+  m_FadeFactor: 1
+--- !u!1 &5460329066216443239
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 638913443839487817}
+  - component: {fileID: 2458443123093253295}
+  m_Layer: 0
+  m_Name: Adinkra_10
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &638913443839487817
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5460329066216443239}
+  m_LocalRotation: {x: 0.0058429237, y: -0.68106335, z: 0.01898834, w: 0.731955}
+  m_LocalPosition: {x: -0.44072843, y: 0.8787857, z: -1.1628621}
+  m_LocalScale: {x: 0.6067421, y: 0.6067417, z: 0.60674196}
+  m_Children: []
+  m_Father: {fileID: 5331083756837791178}
+  m_RootOrder: 9
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &2458443123093253295
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5460329066216443239}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 00e356051204396449ee17b4042744bd, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.12, y: 0.75}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1.5}
+  m_Size: {x: 0.2, y: 0.2, z: 3}
+  m_FadeFactor: 1
+--- !u!1 &5518378888287635610
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 410023220731744586}
+  - component: {fileID: 59129960693938298}
+  m_Layer: 0
+  m_Name: Adinkra_12
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &410023220731744586
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5518378888287635610}
+  m_LocalRotation: {x: 0.0058429237, y: -0.68106335, z: 0.01898834, w: 0.731955}
+  m_LocalPosition: {x: -0.38072848, y: 0.8887862, z: -0.38286263}
+  m_LocalScale: {x: 0.6067421, y: 0.6067417, z: 0.60674196}
+  m_Children: []
+  m_Father: {fileID: 5331083756837791178}
+  m_RootOrder: 11
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &59129960693938298
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5518378888287635610}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 00e356051204396449ee17b4042744bd, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.37, y: 0.75}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1.5}
+  m_Size: {x: 0.2, y: 0.2, z: 3}
+  m_FadeFactor: 1
+--- !u!1 &5657013157777542437
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4565484146907797853}
+  - component: {fileID: 5162529179458876059}
+  m_Layer: 0
+  m_Name: Adinkra_13
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4565484146907797853
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5657013157777542437}
+  m_LocalRotation: {x: 0.0058429237, y: -0.68106335, z: 0.01898834, w: 0.731955}
+  m_LocalPosition: {x: -0.35072848, y: 0.89878607, z: 0.057136875}
+  m_LocalScale: {x: 0.6067421, y: 0.6067417, z: 0.60674196}
+  m_Children: []
+  m_Father: {fileID: 5331083756837791178}
+  m_RootOrder: 12
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &5162529179458876059
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5657013157777542437}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 00e356051204396449ee17b4042744bd, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.5, y: 0.75}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1.5}
+  m_Size: {x: 0.2, y: 0.2, z: 3}
+  m_FadeFactor: 1
+--- !u!1 &5730398969588637033
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4804657639550641236}
+  - component: {fileID: 4327450969127538759}
+  m_Layer: 0
+  m_Name: Adinkra_5
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4804657639550641236
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5730398969588637033}
+  m_LocalRotation: {x: 0.0058429237, y: -0.68106335, z: 0.01898834, w: 0.731955}
+  m_LocalPosition: {x: -0.3707282, y: 1.3387876, z: 0.047137953}
+  m_LocalScale: {x: 0.6067421, y: 0.6067417, z: 0.60674196}
+  m_Children: []
+  m_Father: {fileID: 5331083756837791178}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &4327450969127538759
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5730398969588637033}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 00e356051204396449ee17b4042744bd, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.5, y: 0.87}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1.5}
+  m_Size: {x: 0.2, y: 0.2, z: 3}
+  m_FadeFactor: 1
+--- !u!1 &6575437443188913602
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7492052898249231086}
+  - component: {fileID: 5234925756600053774}
+  m_Layer: 0
+  m_Name: Adinkra_11
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7492052898249231086
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6575437443188913602}
+  m_LocalRotation: {x: 0.0058429237, y: -0.68106335, z: 0.01898834, w: 0.731955}
+  m_LocalPosition: {x: -0.4107283, y: 0.87878597, z: -0.8128629}
+  m_LocalScale: {x: 0.6067421, y: 0.6067417, z: 0.60674196}
+  m_Children: []
+  m_Father: {fileID: 5331083756837791178}
+  m_RootOrder: 10
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &5234925756600053774
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6575437443188913602}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 00e356051204396449ee17b4042744bd, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.24, y: 0.75}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1.5}
+  m_Size: {x: 0.2, y: 0.2, z: 3}
+  m_FadeFactor: 1
+--- !u!1 &6763096313289942420
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6288560081972767882}
+  - component: {fileID: 985836277639559931}
+  m_Layer: 0
+  m_Name: Adinkra_14
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6288560081972767882
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6763096313289942420}
+  m_LocalRotation: {x: 0.0058429237, y: -0.68106335, z: 0.01898834, w: 0.731955}
+  m_LocalPosition: {x: -0.33072838, y: 0.89878595, z: 0.44713786}
+  m_LocalScale: {x: 0.6067421, y: 0.6067417, z: 0.60674196}
+  m_Children: []
+  m_Father: {fileID: 5331083756837791178}
+  m_RootOrder: 13
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &985836277639559931
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6763096313289942420}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 00e356051204396449ee17b4042744bd, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.62, y: 0.75}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1.5}
+  m_Size: {x: 0.2, y: 0.2, z: 3}
+  m_FadeFactor: 1
+--- !u!1 &6981239263868658886
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3968801080589074215}
+  - component: {fileID: 5972399338588563328}
+  m_Layer: 0
+  m_Name: Adinkra_42
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3968801080589074215
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6981239263868658886}
+  m_LocalRotation: {x: 0.0058429237, y: -0.68106335, z: 0.01898834, w: 0.731955}
+  m_LocalPosition: {x: -0.37072858, y: -1.1012133, z: -1.1228621}
+  m_LocalScale: {x: 0.6067421, y: 0.6067417, z: 0.60674196}
+  m_Children: []
+  m_Father: {fileID: 5331083756837791178}
+  m_RootOrder: 41
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &5972399338588563328
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6981239263868658886}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 00e356051204396449ee17b4042744bd, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.12, y: 0.25}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1.5}
+  m_Size: {x: 0.2, y: 0.2, z: 3}
+  m_FadeFactor: 1
+--- !u!1 &7323954814034136513
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5217196229272809352}
+  - component: {fileID: 6618596662575128166}
+  m_Layer: 0
+  m_Name: Adinkra_37
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5217196229272809352
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7323954814034136513}
+  m_LocalRotation: {x: 0.0058429237, y: -0.68106335, z: 0.01898834, w: 0.731955}
+  m_LocalPosition: {x: -0.3007285, y: -0.5412131, z: 0.08713715}
+  m_LocalScale: {x: 0.6067421, y: 0.6067417, z: 0.60674196}
+  m_Children: []
+  m_Father: {fileID: 5331083756837791178}
+  m_RootOrder: 36
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &6618596662575128166
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7323954814034136513}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 00e356051204396449ee17b4042744bd, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.5, y: 0.37}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1.5}
+  m_Size: {x: 0.2, y: 0.2, z: 3}
+  m_FadeFactor: 1
+--- !u!1 &8201872091573651951
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 483920168329759173}
+  - component: {fileID: 2521168317465274363}
+  m_Layer: 0
+  m_Name: Adinkra_31
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &483920168329759173
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8201872091573651951}
+  m_LocalRotation: {x: 0.0058429237, y: -0.68106335, z: 0.01898834, w: 0.731955}
+  m_LocalPosition: {x: -0.26072818, y: -0.061214443, z: 0.8071377}
+  m_LocalScale: {x: 0.6067421, y: 0.6067417, z: 0.60674196}
+  m_Children: []
+  m_Father: {fileID: 5331083756837791178}
+  m_RootOrder: 30
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &2521168317465274363
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8201872091573651951}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 00e356051204396449ee17b4042744bd, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.74, y: 1.5}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1.5}
+  m_Size: {x: 0.2, y: 0.2, z: 3}
+  m_FadeFactor: 1
+--- !u!1 &8322426612589036657
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 492738603560590565}
+  - component: {fileID: 3655587492482304094}
+  m_Layer: 0
+  m_Name: Adinkra_15
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &492738603560590565
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8322426612589036657}
+  m_LocalRotation: {x: 0.0058429237, y: -0.68106335, z: 0.01898834, w: 0.731955}
+  m_LocalPosition: {x: -0.30072835, y: 0.8987867, z: 0.787137}
+  m_LocalScale: {x: 0.6067421, y: 0.6067417, z: 0.60674196}
+  m_Children: []
+  m_Father: {fileID: 5331083756837791178}
+  m_RootOrder: 14
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &3655587492482304094
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8322426612589036657}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 00e356051204396449ee17b4042744bd, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.74, y: 0.75}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1.5}
+  m_Size: {x: 0.2, y: 0.2, z: 3}
+  m_FadeFactor: 1
+--- !u!1 &8604563586928873983
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5308510839633891633}
+  - component: {fileID: 1838937482074024643}
+  m_Layer: 0
+  m_Name: Adinkra_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5308510839633891633
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8604563586928873983}
+  m_LocalRotation: {x: 0.0058429237, y: -0.68106335, z: 0.01898834, w: 0.731955}
+  m_LocalPosition: {x: -0.48072848, y: 1.3087869, z: -1.5128628}
+  m_LocalScale: {x: 0.6067421, y: 0.6067417, z: 0.60674196}
+  m_Children: []
+  m_Father: {fileID: 5331083756837791178}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &1838937482074024643
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8604563586928873983}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 00e356051204396449ee17b4042744bd, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0, y: 0.87}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1.5}
+  m_Size: {x: 0.2, y: 0.2, z: 3}
+  m_FadeFactor: 1
+--- !u!1 &8778657700605608567
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5602872623665549895}
+  - component: {fileID: 2170846451262867217}
+  m_Layer: 0
+  m_Name: Adinkra_38
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5602872623665549895
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8778657700605608567}
+  m_LocalRotation: {x: 0.0058429237, y: -0.68106335, z: 0.01898834, w: 0.731955}
+  m_LocalPosition: {x: -0.27072805, y: -0.53121454, z: 0.47713768}
+  m_LocalScale: {x: 0.6067421, y: 0.6067417, z: 0.60674196}
+  m_Children: []
+  m_Father: {fileID: 5331083756837791178}
+  m_RootOrder: 37
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &2170846451262867217
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8778657700605608567}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 00e356051204396449ee17b4042744bd, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.62, y: 0.37}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1.5}
+  m_Size: {x: 0.2, y: 0.2, z: 3}
+  m_FadeFactor: 1
+--- !u!1 &8841155971750084769
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 333238113655803486}
+  - component: {fileID: 1481463412890997991}
+  m_Layer: 0
+  m_Name: Adinkra_20
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &333238113655803486
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8841155971750084769}
+  m_LocalRotation: {x: 0.0058429237, y: -0.68106335, z: 0.01898834, w: 0.731955}
+  m_LocalPosition: {x: -0.37072885, y: 0.40878665, z: -0.37286252}
+  m_LocalScale: {x: 0.6067421, y: 0.6067417, z: 0.60674196}
+  m_Children: []
+  m_Father: {fileID: 5331083756837791178}
+  m_RootOrder: 19
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &1481463412890997991
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8841155971750084769}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 00e356051204396449ee17b4042744bd, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.37, y: 0.63}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1.5}
+  m_Size: {x: 0.2, y: 0.2, z: 3}
+  m_FadeFactor: 1
+--- !u!1 &8892868321307832903
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2365617001811978214}
+  - component: {fileID: 2195618227862805543}
+  m_Layer: 0
+  m_Name: Adinkra_22
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2365617001811978214
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8892868321307832903}
+  m_LocalRotation: {x: 0.0058429237, y: -0.68106335, z: 0.01898834, w: 0.731955}
+  m_LocalPosition: {x: -0.31072846, y: 0.41878694, z: 0.45713764}
+  m_LocalScale: {x: 0.6067421, y: 0.6067417, z: 0.60674196}
+  m_Children: []
+  m_Father: {fileID: 5331083756837791178}
+  m_RootOrder: 21
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &2195618227862805543
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8892868321307832903}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 00e356051204396449ee17b4042744bd, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.62, y: 0.63}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1.5}
+  m_Size: {x: 0.2, y: 0.2, z: 3}
+  m_FadeFactor: 1
+--- !u!1 &8996434071862215829
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7118436544828372589}
+  - component: {fileID: 4090551725914001854}
+  m_Layer: 0
+  m_Name: Adinkra_16
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7118436544828372589
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8996434071862215829}
+  m_LocalRotation: {x: 0.0058429237, y: -0.68106335, z: 0.01898834, w: 0.731955}
+  m_LocalPosition: {x: -0.27072823, y: 0.8787867, z: 1.197137}
+  m_LocalScale: {x: 0.6067421, y: 0.6067417, z: 0.60674196}
+  m_Children: []
+  m_Father: {fileID: 5331083756837791178}
+  m_RootOrder: 15
+  m_LocalEulerAnglesHint: {x: 1.972, y: -85.855, z: 1.137}
+--- !u!114 &4090551725914001854
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8996434071862215829}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 2
+  m_Material: {fileID: 2100000, guid: 00e356051204396449ee17b4042744bd, type: 2}
+  m_DrawDistance: 1000
+  m_FadeScale: 0.9
+  m_StartAngleFade: 180
+  m_EndAngleFade: 180
+  m_UVScale: {x: 0.13, y: 0.13}
+  m_UVBias: {x: 0.87, y: 0.75}
+  m_AffectsTransparency: 0
+  m_DecalLayerMask: 3
+  m_Offset: {x: 0, y: 0, z: 1.5}
+  m_Size: {x: 0.2, y: 0.2, z: 3}
+  m_FadeFactor: 1
