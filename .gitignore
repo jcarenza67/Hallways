@@ -70,6 +70,7 @@ ExportedObj/
 *.svd
 *.psd
 
+
 # ============ #
 # OS generated #
 # ============ #
@@ -82,6 +83,11 @@ ehthumbs.db
 Thumbs.db
 
 UIElementsSchema/
+/Assets/AtmosphericHouse/Textures/*
+/Assets/AtmosphericHouse/Textures/Clean/*
+/Textures/*
+Textures/
+
 
 
 # ======== #
