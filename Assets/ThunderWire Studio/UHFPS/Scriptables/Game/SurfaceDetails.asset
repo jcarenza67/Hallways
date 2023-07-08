@@ -1,0 +1,275 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3618e9a5cb4605244b792267923d7680, type: 3}
+  m_Name: SurfaceDetails
+  m_EditorClassIdentifier: 
+  Surfaces:
+  - SurfaceName: Default
+    SurfaceProperties:
+      SurfaceTag:
+        tag: Untagged
+      SurfaceTextures: []
+    FootstepProperties:
+      SurfaceFootsteps:
+      - {fileID: 8300000, guid: 4c1e76ce74b91b64f9a2b3ae07a00e24, type: 3}
+      - {fileID: 8300000, guid: 42c19d225d410e040b03975c5ae74d06, type: 3}
+      - {fileID: 8300000, guid: 06f689eba82376344904520c37f4d901, type: 3}
+      - {fileID: 8300000, guid: b09438ae814ddae49a2a24dd62f1b2db, type: 3}
+      - {fileID: 8300000, guid: d25d0510124b2c3418f3eb2b78eb2322, type: 3}
+      - {fileID: 8300000, guid: 2fb25a841f36149438f6c333b7d43ad9, type: 3}
+      - {fileID: 8300000, guid: 696c4d7662cada84089474cea37e8713, type: 3}
+      - {fileID: 8300000, guid: 6051f42d7c258c1478333e2790d4d10b, type: 3}
+      - {fileID: 8300000, guid: f770126fc1991514386e199ad297e066, type: 3}
+      - {fileID: 8300000, guid: c9592bff83956ce42941e848f495d1f7, type: 3}
+      - {fileID: 8300000, guid: fbb9f4fc5ae60584fb4862be193dbc8a, type: 3}
+      SurfaceLandSteps:
+      - {fileID: 8300000, guid: 87e3ac7b22fd80c4ab9b25c567b567e1, type: 3}
+      - {fileID: 8300000, guid: 1f8bf797d4e32244cba64029938d4983, type: 3}
+      - {fileID: 8300000, guid: 4d447564ae772fe43aaadaf5a5221fff, type: 3}
+      - {fileID: 8300000, guid: 7757d480cf2d0ef4b9d329618380ff8a, type: 3}
+      - {fileID: 8300000, guid: 4767af179662130449f58b9023bf149a, type: 3}
+    ImpactProperties:
+      SurfaceBulletmarks:
+      - {fileID: 961667864604932326, guid: 76955f0721ebdd94ab1c3308aaafd8ca, type: 3}
+      BulletmarkImpacts: []
+      SlashImpactType:
+        ImpactMarks:
+        - {fileID: 7609699697393587027, guid: 73381344ed58f36419af2c7f0f2f3867, type: 3}
+        ImpactSounds:
+        - {fileID: 8300000, guid: 10f0ada17bb69064e92485c69d819d46, type: 3}
+      StabImpactType:
+        ImpactMarks:
+        - {fileID: 5064258672826122865, guid: f059f9e4fa9200c40be4e1bbdc1db207, type: 3}
+        ImpactSounds:
+        - {fileID: 8300000, guid: d5a520e2a2b41e14ca203564245d7d98, type: 3}
+    MultiplierProperties:
+      FootstepsMultiplier: 1
+      LandStepsMultiplier: 1
+  - SurfaceName: Flesh
+    SurfaceProperties:
+      SurfaceTag:
+        tag: Flesh
+      SurfaceTextures: []
+    FootstepProperties:
+      SurfaceFootsteps: []
+      SurfaceLandSteps: []
+    ImpactProperties:
+      SurfaceBulletmarks:
+      - {fileID: 5194880707611714813, guid: b64086f6500020f4e8c38dc57d72553a, type: 3}
+      BulletmarkImpacts: []
+      SlashImpactType:
+        ImpactMarks: []
+        ImpactSounds: []
+      StabImpactType:
+        ImpactMarks: []
+        ImpactSounds: []
+    MultiplierProperties:
+      FootstepsMultiplier: 1
+      LandStepsMultiplier: 1
+  - SurfaceName: Cement
+    SurfaceProperties:
+      SurfaceTag:
+        tag: Untagged
+      SurfaceTextures: []
+    FootstepProperties:
+      SurfaceFootsteps:
+      - {fileID: 8300000, guid: 43c89f228b50c0640a8ade1989bff07d, type: 3}
+      - {fileID: 8300000, guid: ffe7cb1c8d177ed43bcb30d242f8e923, type: 3}
+      - {fileID: 8300000, guid: 58a37b4f893d85a4f93f39ddf2c43a94, type: 3}
+      - {fileID: 8300000, guid: 34e6f2179079a444b9c5686744a31e8f, type: 3}
+      - {fileID: 8300000, guid: e1d2f1e1ed6357b4f8bc1a5c450edba5, type: 3}
+      - {fileID: 8300000, guid: da47c6227771cc441855a5e6e2f9d837, type: 3}
+      - {fileID: 8300000, guid: 1cf2f22818e454a43ad9107d832cea92, type: 3}
+      SurfaceLandSteps:
+      - {fileID: 8300000, guid: f526388fb02469446a0fb335a7867bad, type: 3}
+      - {fileID: 8300000, guid: 1beda44869fc941469f4f664aa1275c8, type: 3}
+      - {fileID: 8300000, guid: aa66b15629f761f468d7680810ca1891, type: 3}
+      - {fileID: 8300000, guid: c1c17dcf5512c5a4ca36ec187f8a4cff, type: 3}
+      - {fileID: 8300000, guid: 7f6beb3cb6b4e9e46b01c85e0a9bb606, type: 3}
+    ImpactProperties:
+      SurfaceBulletmarks:
+      - {fileID: 961667864604932326, guid: 76955f0721ebdd94ab1c3308aaafd8ca, type: 3}
+      BulletmarkImpacts: []
+      SlashImpactType:
+        ImpactMarks:
+        - {fileID: 7609699697393587027, guid: 73381344ed58f36419af2c7f0f2f3867, type: 3}
+        ImpactSounds:
+        - {fileID: 8300000, guid: 10f0ada17bb69064e92485c69d819d46, type: 3}
+      StabImpactType:
+        ImpactMarks:
+        - {fileID: 5064258672826122865, guid: f059f9e4fa9200c40be4e1bbdc1db207, type: 3}
+        ImpactSounds:
+        - {fileID: 8300000, guid: d5a520e2a2b41e14ca203564245d7d98, type: 3}
+    MultiplierProperties:
+      FootstepsMultiplier: 1
+      LandStepsMultiplier: 1
+  - SurfaceName: Carpet
+    SurfaceProperties:
+      SurfaceTag:
+        tag: Untagged
+      SurfaceTextures: []
+    FootstepProperties:
+      SurfaceFootsteps:
+      - {fileID: 8300000, guid: 72a8de1f8e0bc2d40ae3ad2ffd2691c5, type: 3}
+      - {fileID: 8300000, guid: acfc74393d1c3494f822a036fa2babe1, type: 3}
+      - {fileID: 8300000, guid: cae0bd69ebaa80a4c98539c4c2a7e569, type: 3}
+      - {fileID: 8300000, guid: bda2513fc3cabff4b93c990be9abe153, type: 3}
+      - {fileID: 8300000, guid: 3014771f7da3e02489e151e26e8ea5bf, type: 3}
+      - {fileID: 8300000, guid: efe561dc49b1188478f1d92fb3e948ef, type: 3}
+      - {fileID: 8300000, guid: 11947c20438a12642ab374a8f1f10c24, type: 3}
+      - {fileID: 8300000, guid: 2a73ce0e8a645f34bb1edded1464b11a, type: 3}
+      - {fileID: 8300000, guid: 775e90187f0988e42b22747566806d80, type: 3}
+      - {fileID: 8300000, guid: 0944221c1a551b5418909db0dc20144f, type: 3}
+      SurfaceLandSteps:
+      - {fileID: 8300000, guid: a149372637511d6498bfa88b7d05e7c5, type: 3}
+      - {fileID: 8300000, guid: b7a6421c98151384e823baa4347c674f, type: 3}
+      - {fileID: 8300000, guid: 1d67e2c3c1b213b42b2f48b9cecdfb29, type: 3}
+      - {fileID: 8300000, guid: fb6ee978f33b15b44b61d0ede810ee95, type: 3}
+      - {fileID: 8300000, guid: 633892515ab13064c9f46d743b96160b, type: 3}
+    ImpactProperties:
+      SurfaceBulletmarks:
+      - {fileID: 961667864604932326, guid: 76955f0721ebdd94ab1c3308aaafd8ca, type: 3}
+      BulletmarkImpacts: []
+      SlashImpactType:
+        ImpactMarks:
+        - {fileID: 7609699697393587027, guid: 73381344ed58f36419af2c7f0f2f3867, type: 3}
+        ImpactSounds:
+        - {fileID: 8300000, guid: 10f0ada17bb69064e92485c69d819d46, type: 3}
+      StabImpactType:
+        ImpactMarks:
+        - {fileID: 5064258672826122865, guid: f059f9e4fa9200c40be4e1bbdc1db207, type: 3}
+        ImpactSounds:
+        - {fileID: 8300000, guid: d5a520e2a2b41e14ca203564245d7d98, type: 3}
+    MultiplierProperties:
+      FootstepsMultiplier: 1
+      LandStepsMultiplier: 1
+  - SurfaceName: Wood
+    SurfaceProperties:
+      SurfaceTag:
+        tag: Untagged
+      SurfaceTextures: []
+    FootstepProperties:
+      SurfaceFootsteps:
+      - {fileID: 8300000, guid: 57e160d3f101f19438ad711d9d423e29, type: 3}
+      - {fileID: 8300000, guid: dadd04b092b9ea247b5ff2dff9ce4dda, type: 3}
+      - {fileID: 8300000, guid: 15539467cd9f5604fa7eb14c6d9e308c, type: 3}
+      - {fileID: 8300000, guid: d772ec5a4fce72a489475d1ac347d071, type: 3}
+      - {fileID: 8300000, guid: efe02d42af20ffe44a8cfb4603da2b68, type: 3}
+      - {fileID: 8300000, guid: ade15e4e82a250d42b6354a82d0ad5cc, type: 3}
+      - {fileID: 8300000, guid: 474abef49692d0c43aeb2b4748181de0, type: 3}
+      - {fileID: 8300000, guid: 59b7593885290834c94b27be9f1251c0, type: 3}
+      - {fileID: 8300000, guid: 75b29a5af79f4bb4bbaa733db9f699cf, type: 3}
+      - {fileID: 8300000, guid: e4271e90f61ba6f4d95c6c5de351c64d, type: 3}
+      SurfaceLandSteps:
+      - {fileID: 8300000, guid: 66b81d6e9662cf14dac13d8700bcac02, type: 3}
+      - {fileID: 8300000, guid: cdd389b02d5686041a4345e5e7808287, type: 3}
+      - {fileID: 8300000, guid: 61e43d24082bb1146b62de1f71f26903, type: 3}
+      - {fileID: 8300000, guid: c1fe0ed48d1ed294594227fa47c52c62, type: 3}
+      - {fileID: 8300000, guid: fbc518ae209414444aaf71072e0c0c86, type: 3}
+    ImpactProperties:
+      SurfaceBulletmarks:
+      - {fileID: 4940417447530457375, guid: 8f34da87b5029c84b98cd561a86a6c5a, type: 3}
+      BulletmarkImpacts: []
+      SlashImpactType:
+        ImpactMarks:
+        - {fileID: 7609699697393587027, guid: 73381344ed58f36419af2c7f0f2f3867, type: 3}
+        ImpactSounds:
+        - {fileID: 8300000, guid: 10f0ada17bb69064e92485c69d819d46, type: 3}
+      StabImpactType:
+        ImpactMarks:
+        - {fileID: 5064258672826122865, guid: f059f9e4fa9200c40be4e1bbdc1db207, type: 3}
+        ImpactSounds:
+        - {fileID: 8300000, guid: d5a520e2a2b41e14ca203564245d7d98, type: 3}
+    MultiplierProperties:
+      FootstepsMultiplier: 1
+      LandStepsMultiplier: 1
+  - SurfaceName: Dirt
+    SurfaceProperties:
+      SurfaceTag:
+        tag: Untagged
+      SurfaceTextures: []
+    FootstepProperties:
+      SurfaceFootsteps:
+      - {fileID: 8300000, guid: d07d732c58beac44e8f8fb979081f69f, type: 3}
+      - {fileID: 8300000, guid: dac395d75748e494b87791bf9662a7e4, type: 3}
+      - {fileID: 8300000, guid: 3333b19c58f64c449bb6e1df1011b12e, type: 3}
+      - {fileID: 8300000, guid: 60f9f5f8025cf174d8091ae0c844d476, type: 3}
+      - {fileID: 8300000, guid: 401e6e1b64fc3cd4bb3584468a0e2a8c, type: 3}
+      - {fileID: 8300000, guid: 54873b189a3917b4e90a611d01304a38, type: 3}
+      - {fileID: 8300000, guid: 4a31e4e8a9656f641a1f9d6b26389385, type: 3}
+      - {fileID: 8300000, guid: b8998fdec74fb494da96aeaf8eb7ccc3, type: 3}
+      - {fileID: 8300000, guid: 2e4f104702b82ce4eac3a04de7710b99, type: 3}
+      - {fileID: 8300000, guid: f5bb3139d987a2f4ca8d843ec4088dbf, type: 3}
+      SurfaceLandSteps:
+      - {fileID: 8300000, guid: 9e2601885a6ba6e4198d974495248d2a, type: 3}
+      - {fileID: 8300000, guid: 79c2338f31b54764bbb86326c4db4714, type: 3}
+      - {fileID: 8300000, guid: 605489d70587cfd489a0f36c90ff6f35, type: 3}
+      - {fileID: 8300000, guid: 9835fa5113ea70344aa8fa322e4e5a5e, type: 3}
+      - {fileID: 8300000, guid: 753cfe231b643d943bc5687ee9269fdb, type: 3}
+    ImpactProperties:
+      SurfaceBulletmarks:
+      - {fileID: 9000770449395257723, guid: 4492b3e063b6d284f87a0684de47574a, type: 3}
+      BulletmarkImpacts: []
+      SlashImpactType:
+        ImpactMarks:
+        - {fileID: 7609699697393587027, guid: 73381344ed58f36419af2c7f0f2f3867, type: 3}
+        ImpactSounds:
+        - {fileID: 8300000, guid: 10f0ada17bb69064e92485c69d819d46, type: 3}
+      StabImpactType:
+        ImpactMarks:
+        - {fileID: 5064258672826122865, guid: f059f9e4fa9200c40be4e1bbdc1db207, type: 3}
+        ImpactSounds:
+        - {fileID: 8300000, guid: d5a520e2a2b41e14ca203564245d7d98, type: 3}
+    MultiplierProperties:
+      FootstepsMultiplier: 1
+      LandStepsMultiplier: 1
+  - SurfaceName: Grass
+    SurfaceProperties:
+      SurfaceTag:
+        tag: Untagged
+      SurfaceTextures:
+      - {fileID: 2800000, guid: d3bb7dc2e6c8fd949b747ecf03666bbf, type: 3}
+    FootstepProperties:
+      SurfaceFootsteps:
+      - {fileID: 8300000, guid: 04551db94f7fa314f9139ad7106f3d27, type: 3}
+      - {fileID: 8300000, guid: 7041062d1dabfcb4e880e515f853902c, type: 3}
+      - {fileID: 8300000, guid: 4df7690634bb2ed40bc9651490e2db4e, type: 3}
+      - {fileID: 8300000, guid: 8d74dfc547e16084a9ae42e0a9a53398, type: 3}
+      - {fileID: 8300000, guid: 078b35cc145ecc442a6521510465048b, type: 3}
+      - {fileID: 8300000, guid: 5d1c4103ad878bf4eb154b946f2ddd18, type: 3}
+      - {fileID: 8300000, guid: aab308cd51a2a2549b8fcb5b48adbe71, type: 3}
+      - {fileID: 8300000, guid: 7a36c4b3225886f4b89eb7bd0e376a2d, type: 3}
+      - {fileID: 8300000, guid: ba4572b0f4fb873448e92675069dd348, type: 3}
+      - {fileID: 8300000, guid: 97f1ccd63b844ff4db4ef6dfcd917dbd, type: 3}
+      SurfaceLandSteps:
+      - {fileID: 8300000, guid: a3aa2e1b942c96a4698466f0b13aaa66, type: 3}
+      - {fileID: 8300000, guid: a2ef542f2edc1814ea878bfe83df0c06, type: 3}
+      - {fileID: 8300000, guid: 7055254269c14c4468d777055466f526, type: 3}
+      - {fileID: 8300000, guid: 8ffb9a3428c0870419ab1876f4daf08d, type: 3}
+      - {fileID: 8300000, guid: 53a0310bc0a755241963fa60923e1da9, type: 3}
+    ImpactProperties:
+      SurfaceBulletmarks:
+      - {fileID: 9000770449395257723, guid: 4492b3e063b6d284f87a0684de47574a, type: 3}
+      BulletmarkImpacts: []
+      SlashImpactType:
+        ImpactMarks:
+        - {fileID: 7609699697393587027, guid: 73381344ed58f36419af2c7f0f2f3867, type: 3}
+        ImpactSounds:
+        - {fileID: 8300000, guid: 10f0ada17bb69064e92485c69d819d46, type: 3}
+      StabImpactType:
+        ImpactMarks:
+        - {fileID: 5064258672826122865, guid: f059f9e4fa9200c40be4e1bbdc1db207, type: 3}
+        ImpactSounds:
+        - {fileID: 8300000, guid: d5a520e2a2b41e14ca203564245d7d98, type: 3}
+    MultiplierProperties:
+      FootstepsMultiplier: 0.5
+      LandStepsMultiplier: 0.3

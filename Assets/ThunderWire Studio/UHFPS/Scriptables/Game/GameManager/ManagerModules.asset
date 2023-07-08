@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-4617836867035387315
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ab62aef472c3634fa01a501a6b0a094, type: 3}
+  m_Name: JumpscareModule
+  m_EditorClassIdentifier: 
+  WobbleGain: 1
+  WobbleLoss: 2
+  SanityGain: 1
+  SanityLoss: 0.5
+--- !u!114 &-3748938409770806060
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e7bc2a18ab98d74a8c633625aa83cac, type: 3}
+  m_Name: FloatingIconModule
+  m_EditorClassIdentifier: 
+  FloatingIconPrefab: {fileID: 2059720715064675103, guid: 40f82a68f72d1bd40acac69937f3cad1, type: 3}
+  CullLayers:
+    serializedVersion: 2
+    m_Bits: 65
+  DistanceShow: 3
+  DistanceHide: 3.5
+  FadeInTime: 0.2
+  FadeOutTime: 0.03
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33df0d913e61d8840b26d69d797a11f6, type: 3}
+  m_Name: ManagerModules
+  m_EditorClassIdentifier: 
+  ManagerModules:
+  - {fileID: -3748938409770806060}
+  - {fileID: -4617836867035387315}
+  - {fileID: 5525525029262211095}
+--- !u!114 &5525525029262211095
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f707bc6560a5344286050effd1376c6, type: 3}
+  m_Name: CutsceneModule
+  m_EditorClassIdentifier: 

@@ -1,0 +1,622 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f103652c3a01e8e4384704fbaec673b6, type: 3}
+  m_Name: Showcase Inventory
+  m_EditorClassIdentifier: 
+  Items:
+  - guid: ba53a6ad76bb4513ba434a3b7542345a
+    item:
+      Title: Flashlight
+      Description: A powerful beam of light in a sturdy metal body, perfect for illuminating
+        dark areas and revealing hidden dangers.
+      Width: 2
+      Height: 1
+      Orientation: 0
+      FlipDirection: 0
+      Icon: {fileID: 21300000, guid: 2010aed8a8346634fa6873acedec8e34, type: 3}
+      ItemObject:
+        GUID: 
+        Object: {fileID: 0}
+      Settings:
+        isUsable: 1
+        isStackable: 0
+        isExaminable: 0
+        isCombinable: 0
+        isDroppable: 0
+        isDiscardable: 0
+        canBindShortcut: 1
+        alwaysShowQuantity: 0
+      UsableSettings:
+        usableType: 0
+        playerItemIndex: 5
+        healthPoints: 0
+      Properties:
+        maxStack: 0
+      CombineSettings: []
+      LocalizationSettings:
+        titleKey: item.title.flashlight
+        descriptionKey: item.description.flashlight
+  - guid: 7a7939d3388c4c829637c9a69ed25442
+    item:
+      Title: Camcorder
+      Description: Illuminate the darkness. Equipped with night vision technology,
+        this camcorder is perfect for exploring and documenting in low light conditions.
+      Width: 2
+      Height: 2
+      Orientation: 0
+      FlipDirection: 0
+      Icon: {fileID: 21300000, guid: b866a89c768b95a459229b911f48a96f, type: 3}
+      ItemObject:
+        GUID: 
+        Object: {fileID: 0}
+      Settings:
+        isUsable: 1
+        isStackable: 0
+        isExaminable: 0
+        isCombinable: 0
+        isDroppable: 0
+        isDiscardable: 0
+        canBindShortcut: 1
+        alwaysShowQuantity: 0
+      UsableSettings:
+        usableType: 0
+        playerItemIndex: 0
+        healthPoints: 0
+      Properties:
+        maxStack: 0
+      CombineSettings: []
+      LocalizationSettings:
+        titleKey: item.title.camcorder
+        descriptionKey: item.description.camcorder
+  - guid: 896bd5e3b27745d884a827b90ce02fb7
+    item:
+      Title: Pistol
+      Description: A trusty sidearm for close-range combat. This powerful weapon
+        packs a punch and can be a lifesaver in dangerous situations.
+      Width: 3
+      Height: 2
+      Orientation: 0
+      FlipDirection: 0
+      Icon: {fileID: 21300000, guid: cd0a26acb9fb4544ca768220c625af0b, type: 3}
+      ItemObject:
+        GUID: 
+        Object: {fileID: 0}
+      Settings:
+        isUsable: 1
+        isStackable: 0
+        isExaminable: 0
+        isCombinable: 0
+        isDroppable: 0
+        isDiscardable: 0
+        canBindShortcut: 1
+        alwaysShowQuantity: 1
+      UsableSettings:
+        usableType: 0
+        playerItemIndex: 4
+        healthPoints: 0
+      Properties:
+        maxStack: 0
+      CombineSettings: []
+      LocalizationSettings:
+        titleKey: item.title.pistol
+        descriptionKey: item.description.pistol
+  - guid: 0a1961f017ee421e9060b9c97dd2ef76
+    item:
+      Title: Lighter
+      Description: A reliable source of fire for any adventurer. With its compact
+        size and easy-to-use design, the lighter is a must-have item.
+      Width: 1
+      Height: 1
+      Orientation: 0
+      FlipDirection: 0
+      Icon: {fileID: 21300000, guid: ed20367e5ffe0564599c2199d5484b98, type: 3}
+      ItemObject:
+        GUID: 
+        Object: {fileID: 0}
+      Settings:
+        isUsable: 1
+        isStackable: 0
+        isExaminable: 0
+        isCombinable: 1
+        isDroppable: 0
+        isDiscardable: 0
+        canBindShortcut: 1
+        alwaysShowQuantity: 0
+      UsableSettings:
+        usableType: 0
+        playerItemIndex: 1
+        healthPoints: 0
+      Properties:
+        maxStack: 0
+      CombineSettings:
+      - combineWithID: 6993e34dac744c23966afbcbba685cf9
+        resultCombineID: 
+        playerItemIndex: 2
+        keepAfterCombine: 1
+        eventAfterCombine: 0
+        selectAfterCombine: 1
+      LocalizationSettings:
+        titleKey: item.title.lighter
+        descriptionKey: item.description.lighter
+  - guid: 0678d717e24540108969a972e042329c
+    item:
+      Title: Knife
+      Description: A versatile tool for any adventurer. With its sharp blade and
+        sturdy construction, it can be used for a variety of tasks.
+      Width: 1
+      Height: 2
+      Orientation: 0
+      FlipDirection: 0
+      Icon: {fileID: 21300000, guid: 538fff2eaba6ede4bb10c5d08be0bccc, type: 3}
+      ItemObject:
+        GUID: 
+        Object: {fileID: 0}
+      Settings:
+        isUsable: 1
+        isStackable: 0
+        isExaminable: 0
+        isCombinable: 0
+        isDroppable: 0
+        isDiscardable: 0
+        canBindShortcut: 1
+        alwaysShowQuantity: 0
+      UsableSettings:
+        usableType: 0
+        playerItemIndex: 3
+        healthPoints: 0
+      Properties:
+        maxStack: 0
+      CombineSettings: []
+      LocalizationSettings:
+        titleKey: item.title.knife
+        descriptionKey: item.description.knife
+  - guid: 6993e34dac744c23966afbcbba685cf9
+    item:
+      Title: Candle
+      Description: Compact, yet valuable for light and warmth in the darkness with
+        its long-lasting burn time.
+      Width: 1
+      Height: 2
+      Orientation: 0
+      FlipDirection: 0
+      Icon: {fileID: 21300000, guid: db5b4c70b71ff85459b719ef8777186e, type: 3}
+      ItemObject:
+        GUID: 
+        Object: {fileID: 0}
+      Settings:
+        isUsable: 0
+        isStackable: 0
+        isExaminable: 0
+        isCombinable: 0
+        isDroppable: 0
+        isDiscardable: 0
+        canBindShortcut: 0
+        alwaysShowQuantity: 0
+      UsableSettings:
+        usableType: 0
+        playerItemIndex: 2
+        healthPoints: 0
+      Properties:
+        maxStack: 0
+      CombineSettings: []
+      LocalizationSettings:
+        titleKey: item.title.candle
+        descriptionKey: item.description.candle
+  - guid: cc6f1cc8ccdc4588b87a90062377e156
+    item:
+      Title: Lantern
+      Description: A reliable source of light for any adventurer. Lantern flame is
+        bright and steady, providing a comforting glow that illuminates your surroundings.
+      Width: 2
+      Height: 2
+      Orientation: 0
+      FlipDirection: 0
+      Icon: {fileID: 21300000, guid: fd04296af6404204491e5b6e2119a6fb, type: 3}
+      ItemObject:
+        GUID: 
+        Object: {fileID: 0}
+      Settings:
+        isUsable: 1
+        isStackable: 0
+        isExaminable: 0
+        isCombinable: 0
+        isDroppable: 0
+        isDiscardable: 0
+        canBindShortcut: 1
+        alwaysShowQuantity: 0
+      UsableSettings:
+        usableType: 0
+        playerItemIndex: 6
+        healthPoints: 0
+      Properties:
+        maxStack: 0
+      CombineSettings: []
+      LocalizationSettings:
+        titleKey: item.title.lantern
+        descriptionKey: item.description.lantern
+  - guid: e504d12d72e249a898b3ae4b65604ae0
+    item:
+      Title: Alkaline Battery
+      Description: A compact and reliable source of power that provide long-lasting
+        energy and are perfect for powering flashlights, radios, and other essential
+        items.
+      Width: 1
+      Height: 1
+      Orientation: 0
+      FlipDirection: 0
+      Icon: {fileID: 21300000, guid: a7e637b8b4a1f904d920a7105e3f87c2, type: 3}
+      ItemObject:
+        GUID: 
+        Object: {fileID: 0}
+      Settings:
+        isUsable: 0
+        isStackable: 1
+        isExaminable: 0
+        isCombinable: 1
+        isDroppable: 0
+        isDiscardable: 0
+        canBindShortcut: 0
+        alwaysShowQuantity: 0
+      UsableSettings:
+        usableType: 0
+        playerItemIndex: -1
+        healthPoints: 0
+      Properties:
+        maxStack: 0
+      CombineSettings:
+      - combineWithID: ba53a6ad76bb4513ba434a3b7542345a
+        resultCombineID: 
+        playerItemIndex: 0
+        keepAfterCombine: 1
+        eventAfterCombine: 1
+        selectAfterCombine: 0
+      LocalizationSettings:
+        titleKey: item.title.alkalinebattery
+        descriptionKey: item.description.alkalinebattery
+  - guid: 65b57fdc935246ad80bc2fe5a2434e54
+    item:
+      Title: Camcorder Battery
+      Description: Keep your camcorder camera powered up and ready to go with this
+        reliable battery. Designed to provide long-lasting energy.
+      Width: 1
+      Height: 1
+      Orientation: 0
+      FlipDirection: 0
+      Icon: {fileID: 21300000, guid: a1b524b63b24e2e489bcd255d778a348, type: 3}
+      ItemObject:
+        GUID: 
+        Object: {fileID: 0}
+      Settings:
+        isUsable: 0
+        isStackable: 1
+        isExaminable: 0
+        isCombinable: 1
+        isDroppable: 0
+        isDiscardable: 0
+        canBindShortcut: 0
+        alwaysShowQuantity: 0
+      UsableSettings:
+        usableType: 0
+        playerItemIndex: -1
+        healthPoints: 0
+      Properties:
+        maxStack: 0
+      CombineSettings:
+      - combineWithID: 7a7939d3388c4c829637c9a69ed25442
+        resultCombineID: 
+        playerItemIndex: 0
+        keepAfterCombine: 1
+        eventAfterCombine: 1
+        selectAfterCombine: 0
+      LocalizationSettings:
+        titleKey: item.title.camcorderbattery
+        descriptionKey: item.description.camcorderbattery
+  - guid: 3f96ba077954472e85e3efd7ba5d650f
+    item:
+      Title: Pistol Flashlight
+      Description: Shed some light on any situation with this tactical attachment
+        for your pistol. It illuminates your target and reveals hidden dangers in
+        the darkness.
+      Width: 1
+      Height: 1
+      Orientation: 0
+      FlipDirection: 0
+      Icon: {fileID: 21300000, guid: f0e654fa74c042f41bb077085b17b0cf, type: 3}
+      ItemObject:
+        GUID: 
+        Object: {fileID: 0}
+      Settings:
+        isUsable: 0
+        isStackable: 0
+        isExaminable: 0
+        isCombinable: 1
+        isDroppable: 0
+        isDiscardable: 0
+        canBindShortcut: 0
+        alwaysShowQuantity: 0
+      UsableSettings:
+        usableType: 0
+        playerItemIndex: -1
+        healthPoints: 0
+      Properties:
+        maxStack: 0
+      CombineSettings:
+      - combineWithID: 896bd5e3b27745d884a827b90ce02fb7
+        resultCombineID: 
+        playerItemIndex: 0
+        keepAfterCombine: 1
+        eventAfterCombine: 1
+        selectAfterCombine: 0
+      LocalizationSettings:
+        titleKey: item.title.pistolflashlight
+        descriptionKey: item.description.pistolflashlight
+  - guid: a89400ede61f4e26aae37610a18b01c9
+    item:
+      Title: 9mm Ammo
+      Description: Compatible with a variety of firearms. With its compact size and
+        high stopping power, 9mm ammo is perfect for close-range combat situations.
+      Width: 2
+      Height: 1
+      Orientation: 0
+      FlipDirection: 0
+      Icon: {fileID: 21300000, guid: 33ca3d79a5bcf484fa9c666b2e2d7d5a, type: 3}
+      ItemObject:
+        GUID: 
+        Object: {fileID: 0}
+      Settings:
+        isUsable: 0
+        isStackable: 1
+        isExaminable: 0
+        isCombinable: 0
+        isDroppable: 0
+        isDiscardable: 0
+        canBindShortcut: 0
+        alwaysShowQuantity: 1
+      UsableSettings:
+        usableType: 0
+        playerItemIndex: -1
+        healthPoints: 0
+      Properties:
+        maxStack: 0
+      CombineSettings: []
+      LocalizationSettings:
+        titleKey: item.title.9mmammo
+        descriptionKey: item.description.9mmammo
+  - guid: 3905d98ae65b4984a9b8fe2e994d6ead
+    item:
+      Title: Petrol Oil
+      Description: A refined petroleum product commonly used as a fuel for lanterns
+        and lamps. It is a clear, colorless liquid that produces a bright, steady
+        flame when burned.
+      Width: 1
+      Height: 2
+      Orientation: 0
+      FlipDirection: 0
+      Icon: {fileID: 21300000, guid: cbc3de1cb9e937749926fc4135d0d565, type: 3}
+      ItemObject:
+        GUID: d1967a3246bd9e047b17fb288b68cccf
+        Object: {fileID: 3497057729131411850, guid: d1967a3246bd9e047b17fb288b68cccf, type: 3}
+      Settings:
+        isUsable: 0
+        isStackable: 1
+        isExaminable: 1
+        isCombinable: 1
+        isDroppable: 1
+        isDiscardable: 0
+        canBindShortcut: 0
+        alwaysShowQuantity: 0
+      UsableSettings:
+        usableType: 0
+        playerItemIndex: -1
+        healthPoints: 0
+      Properties:
+        maxStack: 0
+      CombineSettings:
+      - combineWithID: cc6f1cc8ccdc4588b87a90062377e156
+        resultCombineID: 
+        playerItemIndex: 0
+        keepAfterCombine: 1
+        eventAfterCombine: 1
+        selectAfterCombine: 0
+      LocalizationSettings:
+        titleKey: item.title.petroloil
+        descriptionKey: item.description.petroloil
+  - guid: 9c45e9931ae9492dba1cf41854f95de0
+    item:
+      Title: Lockpick
+      Description: A handy tool for any adventurer, the lockpick can open a variety
+        of locks and doors.
+      Width: 1
+      Height: 1
+      Orientation: 0
+      FlipDirection: 0
+      Icon: {fileID: 21300000, guid: 03830137119a4c74bb36000faee0dfeb, type: 3}
+      ItemObject:
+        GUID: 
+        Object: {fileID: 0}
+      Settings:
+        isUsable: 0
+        isStackable: 1
+        isExaminable: 0
+        isCombinable: 0
+        isDroppable: 0
+        isDiscardable: 0
+        canBindShortcut: 0
+        alwaysShowQuantity: 0
+      UsableSettings:
+        usableType: 0
+        playerItemIndex: -1
+        healthPoints: 0
+      Properties:
+        maxStack: 0
+      CombineSettings: []
+      LocalizationSettings:
+        titleKey: item.title.lockpick
+        descriptionKey: item.description.lockpick
+  - guid: 277b6aee2d4b47aaa655f284bf75bf94
+    item:
+      Title: Fuse
+      Description: An essential item for fixing electrical equipment and powering
+        machinery. With its compact size, it's easy to carry in your inventory.
+      Width: 1
+      Height: 2
+      Orientation: 0
+      FlipDirection: 0
+      Icon: {fileID: 21300000, guid: 2eb70c48ee788e840b4f64fcc4df4cad, type: 3}
+      ItemObject:
+        GUID: 
+        Object: {fileID: 0}
+      Settings:
+        isUsable: 0
+        isStackable: 1
+        isExaminable: 0
+        isCombinable: 0
+        isDroppable: 0
+        isDiscardable: 0
+        canBindShortcut: 0
+        alwaysShowQuantity: 0
+      UsableSettings:
+        usableType: 0
+        playerItemIndex: -1
+        healthPoints: 0
+      Properties:
+        maxStack: 0
+      CombineSettings: []
+      LocalizationSettings:
+        titleKey: item.title.fuse
+        descriptionKey: item.description.fuse
+  - guid: 57b275c2799549b2b64d8f3dc6eeeda4
+    item:
+      Title: Valve
+      Description: An essential component for controlling the flow of liquids and
+        gases in pipes and machinery.
+      Width: 2
+      Height: 2
+      Orientation: 0
+      FlipDirection: 0
+      Icon: {fileID: 21300000, guid: 5cba04aee5011fa459f4b4f6cd9cf73b, type: 3}
+      ItemObject:
+        GUID: 
+        Object: {fileID: 0}
+      Settings:
+        isUsable: 0
+        isStackable: 0
+        isExaminable: 0
+        isCombinable: 0
+        isDroppable: 0
+        isDiscardable: 0
+        canBindShortcut: 0
+        alwaysShowQuantity: 0
+      UsableSettings:
+        usableType: 0
+        playerItemIndex: -1
+        healthPoints: 0
+      Properties:
+        maxStack: 0
+      CombineSettings: []
+      LocalizationSettings:
+        titleKey: item.title.valve
+        descriptionKey: item.description.valve
+  - guid: 2e96a8436e6e4cc1a3238e1a70f4ee2e
+    item:
+      Title: VHS Cassette
+      Description: A classic, durable format for video recording and archiving memories
+        or documenting important events.
+      Width: 1
+      Height: 1
+      Orientation: 0
+      FlipDirection: 0
+      Icon: {fileID: 21300000, guid: 536374a5adf6d2d48a1f7fc84f1c60b5, type: 3}
+      ItemObject:
+        GUID: 
+        Object: {fileID: 0}
+      Settings:
+        isUsable: 0
+        isStackable: 0
+        isExaminable: 0
+        isCombinable: 0
+        isDroppable: 0
+        isDiscardable: 0
+        canBindShortcut: 0
+        alwaysShowQuantity: 0
+      UsableSettings:
+        usableType: 0
+        playerItemIndex: -1
+        healthPoints: 0
+      Properties:
+        maxStack: 0
+      CombineSettings: []
+      LocalizationSettings:
+        titleKey: item.title.vhscassette
+        descriptionKey: item.description.vhscassette
+  - guid: 21cc6375d5614192aac1fedce6147cfa
+    item:
+      Title: Red Keycard
+      Description: A high-security access card that grants entry to restricted areas.
+      Width: 1
+      Height: 1
+      Orientation: 0
+      FlipDirection: 0
+      Icon: {fileID: 21300000, guid: ad0e8064004559d42bf4fc0f706648cb, type: 3}
+      ItemObject:
+        GUID: 
+        Object: {fileID: 0}
+      Settings:
+        isUsable: 0
+        isStackable: 0
+        isExaminable: 0
+        isCombinable: 0
+        isDroppable: 0
+        isDiscardable: 0
+        canBindShortcut: 0
+        alwaysShowQuantity: 0
+      UsableSettings:
+        usableType: 0
+        playerItemIndex: -1
+        healthPoints: 0
+      Properties:
+        maxStack: 0
+      CombineSettings: []
+      LocalizationSettings:
+        titleKey: item.title.redkeycard
+        descriptionKey: item.description.redkeycard
+  - guid: 96cdd54e574046aeb73adf165af2a6f5
+    item:
+      Title: Green Keycard
+      Description: An access card that allows entry to various secure locations.
+      Width: 1
+      Height: 1
+      Orientation: 0
+      FlipDirection: 0
+      Icon: {fileID: 21300000, guid: e1c7e22c95805a8458fef07138e95615, type: 3}
+      ItemObject:
+        GUID: 
+        Object: {fileID: 0}
+      Settings:
+        isUsable: 0
+        isStackable: 0
+        isExaminable: 0
+        isCombinable: 0
+        isDroppable: 0
+        isDiscardable: 0
+        canBindShortcut: 0
+        alwaysShowQuantity: 0
+      UsableSettings:
+        usableType: 0
+        playerItemIndex: -1
+        healthPoints: 0
+      Properties:
+        maxStack: 0
+      CombineSettings: []
+      LocalizationSettings:
+        titleKey: item.title.greenkeycard
+        descriptionKey: item.description.greenkeycard
