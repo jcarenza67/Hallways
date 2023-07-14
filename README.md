@@ -65,6 +65,7 @@ _This is a horror game where the player is stuck in a looping hallway. Right now
 * 2:00: Character is imported with textures! Now I am going to set up trigger animations
 * 2:30: researching triggers and colliders to make the character move when player crosses a certain point.
 * 3:00: placed a box trigger in the spot with a boolean isTrigger set to true. Researching the asset documentation for interaction.
+* 3:38: got the doors to kind of interact with the player. But the character has stopped moving. Researching why.
 
 # License
 
