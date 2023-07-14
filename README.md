@@ -63,6 +63,7 @@ _This is a horror game where the player is stuck in a looping hallway. Right now
 * 12:16: downloading character and animations from mixamo.
 * 1:14: downloaded character and am uploading it to Unity.
 * 2:00: Character is imported with textures! Now I am going to set up trigger animations
+* 2:30: researching triggers and colliders to make the character move when player crosses a certain point.
 
 # License
 
