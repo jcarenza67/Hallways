@@ -60,6 +60,7 @@ _This is a horror game where the player is stuck in a looping hallway. Right now
 * 10:34: making blood in bathroom look more realistic. tell a story with the blood.
 * 11:05: finding character model to add animations and upload into my game.
 * 11:41: found a character model and working on blending it so I can put the right textures on it. Then going to mixamo to add animations.
+* 12:16: downloading character and animations from mixamo.
 
 # License
 
