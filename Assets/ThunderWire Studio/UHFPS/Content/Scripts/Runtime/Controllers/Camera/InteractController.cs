@@ -5,6 +5,12 @@ using ThunderWire.Attributes;
 
 namespace UHFPS.Runtime
 {
+
+    public interface IOpenable 
+    {
+        void OpenOrClose();
+    }
+
     [InspectorHeader("Interact Controller")]
     public class InteractController : PlayerComponent
     {
@@ -292,6 +298,11 @@ namespace UHFPS.Runtime
                     }
 
                     interactable.InteractObject();
+
+                    if (interactObj.TryGetComponent<IOpenable>(out var openable))
+                    {
+                        openable.OpenOrClose();
+                    }
                 }
             }
         }

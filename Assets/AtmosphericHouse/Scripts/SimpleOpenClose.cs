@@ -1,9 +1,15 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UHFPS.Runtime;
 
-public class SimpleOpenClose : MonoBehaviour
+public class SimpleOpenClose : MonoBehaviour, IOpenable
 {
+
+    public void OpenOrClose()
+    {
+        Debug.Log("OpenOrClose method called");
+    }
     private Animator myAnimator;
     private Animator additionalAnimator;
     public bool objectOpen;
@@ -17,7 +23,7 @@ public class SimpleOpenClose : MonoBehaviour
     // Additional object with animator. For example another door when double doors. 
     void Start()
     {
-       
+      
         // If there is no animator in the gameobject itself, get the parent animator.
         myAnimator = GetComponent<Animator>();
         if (myAnimator == null)
@@ -45,7 +51,7 @@ public class SimpleOpenClose : MonoBehaviour
 
     // Player clicks object. Method called from SimplePlayerUse script.
 
-    void ObjectClicked()
+    public void ObjectClicked()
     {
 
         myNormalizedTime = myAnimator.GetCurrentAnimatorStateInfo(0).normalizedTime;

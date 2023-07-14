@@ -75,6 +75,8 @@ namespace UHFPS.Runtime
         public UnityEvent OnExamineStartEvent;
         public UnityEvent OnExamineEndEvent;
 
+        private SimpleOpenClose simpleOpenClose;
+
         public bool IsExamined;
 
         public bool IsCustomExamine => InteractableType != InteractableTypeEnum.GenericItem && ExamineType == ExamineTypeEnum.CustomObject;
@@ -176,4 +178,5 @@ namespace UHFPS.Runtime
             ItemCustomData.JsonData = data["customData"].ToString();
         }
     }
+
 }

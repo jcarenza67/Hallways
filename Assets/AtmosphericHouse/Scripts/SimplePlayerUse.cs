@@ -27,7 +27,7 @@ public class SimplePlayerUse : MonoBehaviour
             if (flashlight.activeSelf )
                   flashlight.SetActive(false);
             else
-                 flashlight.SetActive(true);
+                  flashlight.SetActive(true);
         }
     }
     
