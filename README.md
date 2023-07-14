@@ -26,7 +26,6 @@ _This is a horror game where the player is stuck in a looping hallway. Right now
 
 * _Clone this repository to your desktop_
 * _Download Unity Hub_
-* _Email me at josephwilfong91@gmail.com for the google drive link for the zip textures and audio_
 * _Open the project in Unity_
 * _Open the scene "SampleScene"_
 * _Press the play button in the top middle of the screen_
@@ -34,6 +33,9 @@ _This is a horror game where the player is stuck in a looping hallway. Right now
 * _Use the mouse to look around_
 * _Press the f key to interact with objects_
 
+# Textures
+
+* _Email me at josephwilfong91@gmail.com for the google drive link for the zip textures and audio_
 
 # Known Bugs
 
@@ -51,6 +53,7 @@ _This is a horror game where the player is stuck in a looping hallway. Right now
 * 3:52: Taking a bit to add all necessary files to github. Thankfully I have 2 days of environment I built last weekend.
 * 4:14: Adding blood to the bathroom.
 * 4:45: leaving computer on to finish huge push to repository.
+* 8:00: adding more props to the scene.
 
 # License
 
