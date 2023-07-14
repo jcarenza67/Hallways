@@ -58,6 +58,7 @@ _This is a horror game where the player is stuck in a looping hallway. Right now
 * 9:42: reading documentation on how to use the new person controller.
 * 10:04: decided to just go back to adding props to the scene. I'll figure out the new person controller in a couple of hours.
 * 10:34: making blood in bathroom look more realistic. tell a story with the blood.
+* 11:05: finding character model to add animations and upload into my game.
 
 # License
 
