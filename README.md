@@ -67,6 +67,7 @@ _This is a horror game where the player is stuck in a looping hallway. Right now
 * 3:00: placed a box trigger in the spot with a boolean isTrigger set to true. Researching the asset documentation for interaction.
 * 3:38: got the doors to kind of interact with the player. But the character has stopped moving. Researching why.
 * 8:13: I figured out how to get the doors to move with new player controller in the documentation. Now I have to change some scripts.
+* 8:45: Still working on getting doors and drawers to open with interaction. Setting them as dynamic objects and adding audio to them.
 
 # License
 
