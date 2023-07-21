@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - Flesh
+  - FinalDoor
   layers:
   - Default
   - TransparentFX
