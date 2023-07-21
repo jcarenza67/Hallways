@@ -35,7 +35,7 @@ _This is a horror game where the player is stuck in a looping hallway. Right now
 
 # Textures
 
-* _Email me at josephwilfong91@gmail.com for the google drive link for the zip textures and audio_
+* [asset pack](https://assetstore.unity.com/?q=atmospheric%20house&orderBy=1)
 
 # Known Bugs
 
@@ -72,6 +72,7 @@ _This is a horror game where the player is stuck in a looping hallway. Right now
 * 9:58: Switched back to old controller and am going to try and add certain animations to the character. Doors open and close with the player now!
 * 10:34: Added walls, floor, door, and light to the basement. Dimmed the lights of all lamps.
 * 2:56: In the middle of setting up a teleport transition so player doesnt see empty space.
+* 4:12: Duplicated hallway and am approaching teleportation transition differently. Going to try and make it so the player can't see the teleportation.
 
 # License
 
