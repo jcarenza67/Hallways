@@ -70,6 +70,7 @@ _This is a horror game where the player is stuck in a looping hallway. Right now
 * 8:45: Still working on getting doors and drawers to open with interaction. Setting them as dynamic objects and adding audio to them.
 * 9:25: Having clashes with scripts. Going to set up the environment more and come back to this. Add more props and textures.
 * 9:58: Switched back to old controller and am going to try and add certain animations to the character. Doors open and close with the player now!
+* 10:34: Added walls, floor, door, and light to the basement. Dimmed the lights of all lamps.
 
 # License
 
