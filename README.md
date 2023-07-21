@@ -68,6 +68,8 @@ _This is a horror game where the player is stuck in a looping hallway. Right now
 * 3:38: got the doors to kind of interact with the player. But the character has stopped moving. Researching why.
 * 8:13: I figured out how to get the doors to move with new player controller in the documentation. Now I have to change some scripts.
 * 8:45: Still working on getting doors and drawers to open with interaction. Setting them as dynamic objects and adding audio to them.
+* 9:25: Having clashes with scripts. Going to set up the environment more and come back to this. Add more props and textures.
+* 9:58: Switched back to old controller and am going to try and add certain animations to the character. Doors open and close with the player now!
 
 # License
 

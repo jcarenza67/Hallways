@@ -8,7 +8,9 @@ namespace UHFPS.Runtime
 
     public interface IOpenable 
     {
-        void OpenOrClose();
+        void StartOpening();
+        void UpdateOpening(float intensity);
+        void StopOpening();
     }
 
     [InspectorHeader("Interact Controller")]
@@ -301,7 +303,7 @@ namespace UHFPS.Runtime
 
                     if (interactObj.TryGetComponent<IOpenable>(out var openable))
                     {
-                        openable.OpenOrClose();
+                        openable.StartOpening();
                     }
                 }
             }
