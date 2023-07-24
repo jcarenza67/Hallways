@@ -76,6 +76,7 @@ July 21st
 * 4:12: Duplicated hallway and am approaching teleportation transition differently. Going to try and make it so the player can't see the teleportation.
 July 24th
 * 2:00: Adding new animation to monster.
+* 2:30: Added the animation and set it to loop with a blend tree.
 
 # License
 
