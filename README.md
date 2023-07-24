@@ -66,6 +66,7 @@ _This is a horror game where the player is stuck in a looping hallway. Right now
 * 2:30: researching triggers and colliders to make the character move when player crosses a certain point.
 * 3:00: placed a box trigger in the spot with a boolean isTrigger set to true. Researching the asset documentation for interaction.
 * 3:38: got the doors to kind of interact with the player. But the character has stopped moving. Researching why.
+July 21st
 * 8:13: I figured out how to get the doors to move with new player controller in the documentation. Now I have to change some scripts.
 * 8:45: Still working on getting doors and drawers to open with interaction. Setting them as dynamic objects and adding audio to them.
 * 9:25: Having clashes with scripts. Going to set up the environment more and come back to this. Add more props and textures.
@@ -73,6 +74,8 @@ _This is a horror game where the player is stuck in a looping hallway. Right now
 * 10:34: Added walls, floor, door, and light to the basement. Dimmed the lights of all lamps.
 * 2:56: In the middle of setting up a teleport transition so player doesnt see empty space.
 * 4:12: Duplicated hallway and am approaching teleportation transition differently. Going to try and make it so the player can't see the teleportation.
+July 24th
+* 2:00: Adding new animation to monster.
 
 # License
 
