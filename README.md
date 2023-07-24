@@ -77,6 +77,7 @@ July 21st
 July 24th
 * 2:00: Adding new animation to monster.
 * 2:30: Added the animation and set it to loop with a blend tree.
+* 3:00: Added a new animation to the monster. Now I am going to try and get the monster to chase the player.
 
 # License
 
