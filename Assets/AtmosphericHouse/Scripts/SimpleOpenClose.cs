@@ -5,7 +5,10 @@ using UnityEngine;
 public class SimpleOpenClose : MonoBehaviour
 {
     private Animator myAnimator;
+    public Animator characterAnimator;
     private Animator additionalAnimator;
+    public bool isChaseTrigger = false;
+
     public bool objectOpen;
     public bool objectOpenAdditional;
     public GameObject animateAdditional;
@@ -45,64 +48,77 @@ public class SimpleOpenClose : MonoBehaviour
 
     // Player clicks object. Method called from SimplePlayerUse script.
 
-    void ObjectClicked()
+    public void ObjectClicked()
+{
+    myNormalizedTime = myAnimator.GetCurrentAnimatorStateInfo(0).normalizedTime;
+
+    if (hasAdditional == false)
     {
-
-        myNormalizedTime = myAnimator.GetCurrentAnimatorStateInfo(0).normalizedTime;
-
-        if (hasAdditional == false)
-        {
-            if (myNormalizedTime >= 1.0)
-            {
-                if (objectOpen == true)
-                {
-                    myAnimator.Play("Close", 0, 0.0f);
-                    objectOpen = false;
-                }
-
-                else
-                {
-                    myAnimator.Play("Open", 0, 0.0f);
-                    objectOpen = true;
-                }
-            }
-        }
-
-        if (hasAdditional == true && myNormalizedTime >= 1.0)
+        if (myNormalizedTime >= 1.0)
         {
             if (objectOpen == true)
             {
                 myAnimator.Play("Close", 0, 0.0f);
                 objectOpen = false;
-                animateAdditional.GetComponent<SimpleOpenClose>().objectOpenAdditional = false;
-
-                if (objectOpenAdditional == true)
-                {
-                    additionalAnimator.Play("Close", 0, 0.0f);
-                    objectOpenAdditional = false;
-                    animateAdditional.GetComponent<SimpleOpenClose>().objectOpen = false;
-                }
-
             }
 
             else
             {
                 myAnimator.Play("Open", 0, 0.0f);
                 objectOpen = true;
-                animateAdditional.GetComponent<SimpleOpenClose>().objectOpenAdditional = true;
-
-                if (objectOpenAdditional == false)
+                if (isChaseTrigger && characterAnimator != null) // only trigger the chase if this is the chase trigger door and the animator is not null
                 {
-                    additionalAnimator.Play("Open", 0, 0.0f);
-                    objectOpenAdditional = true;
-                    animateAdditional.GetComponent<SimpleOpenClose>().objectOpen = true;
-
+                    Debug.Log("Chase triggered");
+                    characterAnimator.SetBool("IsChasing", true);
                 }
+            }
+        }
+    }
 
+    if (hasAdditional == true && myNormalizedTime >= 1.0)
+    {
+        if (objectOpen == true)
+        {
+            myAnimator.Play("Close", 0, 0.0f);
+            objectOpen = false;
+            animateAdditional.GetComponent<SimpleOpenClose>().objectOpenAdditional = false;
+
+            if (objectOpenAdditional == true)
+            {
+                additionalAnimator.Play("Close", 0, 0.0f);
+                objectOpenAdditional = false;
+                animateAdditional.GetComponent<SimpleOpenClose>().objectOpen = false;
             }
 
         }
 
+        else
+        {
+            myAnimator.Play("Open", 0, 0.0f);
+            objectOpen = true;
+            animateAdditional.GetComponent<SimpleOpenClose>().objectOpenAdditional = true;
+
+            if (objectOpenAdditional == false)
+            {
+                additionalAnimator.Play("Open", 0, 0.0f);
+                objectOpenAdditional = true;
+                animateAdditional.GetComponent<SimpleOpenClose>().objectOpen = true;
+            }
+
+            if (gameObject.CompareTag("FinalDoor"))
+            {
+                if (characterAnimator != null)
+                {
+                    characterAnimator.SetBool("IsChasing", true);
+                }
+                else
+                {
+                    Debug.LogError("No Animator assigned to the character. Please assign it in the inspector.");
+                }
+            }
+        }
     }
+}
+
 
 }
