@@ -8,6 +8,16 @@ public class MonsterChase : MonoBehaviour
 
     private bool isChasing = false;
 
+    private void OnEnable()
+    {
+        BathroomDoorScript.OnBathroomDoorOpened += StartChase;
+    }
+
+    private void OnDisable()
+    {
+        BathroomDoorScript.OnBathroomDoorOpened -= StartChase;
+    }
+
     public void StartChase()
     {
         isChasing = true;
@@ -15,11 +25,12 @@ public class MonsterChase : MonoBehaviour
 
     void Update()
     {
-        if (isChasing)
+        if(isChasing)
         {
             agent.SetDestination(player.transform.position);
         }
     }
 }
+
 
 
