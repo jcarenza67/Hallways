@@ -28,6 +28,18 @@ public class MonsterChase : MonoBehaviour
         if(isChasing)
         {
             agent.SetDestination(player.transform.position);
+
+            RaycastHit hit;
+        if (Physics.Raycast(transform.position, player.transform.position - transform.position, out hit))
+        {
+            
+            SimpleOpenClose door = hit.transform.GetComponent<SimpleOpenClose>();
+            if (door && !door.objectOpen)
+            {
+                
+                door.ObjectClicked();
+            }
+        }
         }
     }
 }
