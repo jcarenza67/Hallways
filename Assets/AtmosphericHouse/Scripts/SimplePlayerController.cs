@@ -17,6 +17,8 @@ public class SimplePlayerController : MonoBehaviour
     Vector3 moveDirection = Vector3.zero;
     float rotationX = 0;
     private bool canMove = true;
+    public bool IsRunning { get; private set; }
+    public bool IsMoving { get; private set; }
 
     void Start()
     {
@@ -24,18 +26,18 @@ public class SimplePlayerController : MonoBehaviour
 
         Cursor.lockState = CursorLockMode.Locked;
         Cursor.visible = false;
-
     }
 
     void Update()
     {
         Vector3 forward = transform.TransformDirection(Vector3.forward);
         Vector3 right = transform.TransformDirection(Vector3.right);
-        bool isRunning = Input.GetKey(KeyCode.LeftShift);
-        float curSpeedX = canMove ? (isRunning ? runSpeed : walkSpeed) * Input.GetAxis("Vertical") : 0;
-        float curSpeedY = canMove ? (isRunning ? runSpeed : walkSpeed) * Input.GetAxis("Horizontal") : 0;
-        float movementDirectionY = moveDirection.y;
+        IsRunning = Input.GetKey(KeyCode.LeftShift);
+        float curSpeedX = canMove ? (IsRunning ? runSpeed : walkSpeed) * Input.GetAxis("Vertical") : 0;
+        float curSpeedY = canMove ? (IsRunning ? runSpeed : walkSpeed) * Input.GetAxis("Horizontal") : 0;
         moveDirection = (forward * curSpeedX) + (right * curSpeedY);
+        
+        IsMoving = (curSpeedX != 0 || curSpeedY != 0);
 
         if (!characterController.isGrounded)
         {
@@ -52,4 +54,6 @@ public class SimplePlayerController : MonoBehaviour
             transform.rotation *= Quaternion.Euler(0, Input.GetAxis("Mouse X") * lookSpeed, 0);
         }
     }
+
+    public Vector3 MoveDirection { get { return moveDirection; } }
 }
