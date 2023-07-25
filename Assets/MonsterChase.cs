@@ -5,17 +5,16 @@ public class MonsterChase : MonoBehaviour
 {
     public GameObject player;
     private NavMeshAgent agent;
-    private bool chasing = false; // Add this line
-
+    private bool chasing = false;
     void Start()
     {
         agent = GetComponent<NavMeshAgent>();
-        BathroomDoorScript.OnBathroomDoorOpened += StartChase; // Listen for the bathroom door opening
+        BathroomDoorScript.OnBathroomDoorOpened += StartChase;
     }
 
     void Update()
     {
-        if(chasing) // Only chase the player if we're supposed to be
+        if(chasing)
         {
             agent.SetDestination(player.transform.position);
         }
@@ -23,12 +22,12 @@ public class MonsterChase : MonoBehaviour
 
     public void StartChase()
     {
-        chasing = true; // Set chasing to true when StartChase is called
+        chasing = true;
     }
 
     public void StopChase()
     {
-        chasing = false; // Set chasing to false when StopChase is called
-        agent.ResetPath(); // Clear the agent's path when we stop chasing
+        chasing = false; 
+        agent.ResetPath();
     }
 }

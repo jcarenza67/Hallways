@@ -7,6 +7,8 @@ public class BathroomDoorScript : MonoBehaviour
     private Animator myAnimator;
     private bool doorOpen;
 
+    public GameObject monster; // Assign your monster game object in the Inspector
+
     void Start()
     {
         myAnimator = GetComponent<Animator>();
@@ -14,6 +16,14 @@ public class BathroomDoorScript : MonoBehaviour
         {
             myAnimator = GetComponentInParent<Animator>();
         }
+
+        // Initially make the monster invisible and stop the chase
+        SkinnedMeshRenderer[] renderers = monster.GetComponentsInChildren<SkinnedMeshRenderer>();
+        foreach(SkinnedMeshRenderer renderer in renderers)
+        {
+            renderer.enabled = false;
+        }
+        monster.GetComponent<MonsterChase>().StopChase();
     }
 
     public void ObjectClicked()
@@ -33,8 +43,15 @@ public class BathroomDoorScript : MonoBehaviour
                 doorOpen = true;
 
                 OnBathroomDoorOpened?.Invoke();
+
+                // Now make the monster visible and start the chase
+                SkinnedMeshRenderer[] renderers = monster.GetComponentsInChildren<SkinnedMeshRenderer>();
+                foreach(SkinnedMeshRenderer renderer in renderers)
+                {
+                    renderer.enabled = true;
+                }
+                monster.GetComponent<MonsterChase>().StartChase();
             }
         }
     }
 }
-
