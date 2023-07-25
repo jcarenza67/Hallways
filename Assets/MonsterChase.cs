@@ -3,46 +3,32 @@ using UnityEngine.AI;
 
 public class MonsterChase : MonoBehaviour
 {
-    public NavMeshAgent agent;
     public GameObject player;
+    private NavMeshAgent agent;
+    private bool chasing = false; // Add this line
 
-    private bool isChasing = false;
-
-    private void OnEnable()
+    void Start()
     {
-        BathroomDoorScript.OnBathroomDoorOpened += StartChase;
-    }
-
-    private void OnDisable()
-    {
-        BathroomDoorScript.OnBathroomDoorOpened -= StartChase;
-    }
-
-    public void StartChase()
-    {
-        isChasing = true;
+        agent = GetComponent<NavMeshAgent>();
+        BathroomDoorScript.OnBathroomDoorOpened += StartChase; // Listen for the bathroom door opening
     }
 
     void Update()
     {
-        if(isChasing)
+        if(chasing) // Only chase the player if we're supposed to be
         {
             agent.SetDestination(player.transform.position);
-
-            RaycastHit hit;
-        if (Physics.Raycast(transform.position, player.transform.position - transform.position, out hit))
-        {
-            
-            SimpleOpenClose door = hit.transform.GetComponent<SimpleOpenClose>();
-            if (door && !door.objectOpen)
-            {
-                
-                door.ObjectClicked();
-            }
-        }
         }
     }
+
+    public void StartChase()
+    {
+        chasing = true; // Set chasing to true when StartChase is called
+    }
+
+    public void StopChase()
+    {
+        chasing = false; // Set chasing to false when StopChase is called
+        agent.ResetPath(); // Clear the agent's path when we stop chasing
+    }
 }
-
-
-
