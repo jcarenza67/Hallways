@@ -18,7 +18,7 @@ public class PlayerTeleport : MonoBehaviour
             transform.position = teleportTarget.position;
             transform.rotation = teleportTarget.rotation;
 
-            // Close all doors that are open
+            Debug.Log("All doors count: " + allDoors.Count);
             foreach (SimpleOpenClose door in allDoors)
             {
                 if (door.objectOpen)

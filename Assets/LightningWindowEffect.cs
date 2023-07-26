@@ -10,6 +10,7 @@ public class LightningWindowEffect : MonoBehaviour
     public float maxDelay = 5f;
     public float lightningDuration = 0.1f; // Adjust this for your desired flash duration
     public AudioSource thunderAudioSource; // Assign the audio source for the thunder sound in the inspector
+    public Light[] flickeringLights; // Array to hold multiple lights
 
     private Color originalEmissionColor;
     private float[] audioSpectrum = new float[256];
@@ -18,6 +19,12 @@ public class LightningWindowEffect : MonoBehaviour
     {
         // Save the original emission color
         originalEmissionColor = windowMaterial.GetColor("_EmissionColor");
+
+        // Turn off all lights at the start
+        foreach (var flickeringLight in flickeringLights)
+        {
+            flickeringLight.enabled = false;
+        }
 
         // Start the lightning coroutine
         StartCoroutine(Flash());
@@ -41,19 +48,31 @@ public class LightningWindowEffect : MonoBehaviour
 
                 // First flash
                 windowMaterial.SetColor("_EmissionColor", emissionColor);
+                ToggleFlickeringLights(true); // Turn on all lights
                 yield return new WaitForSeconds(lightningDuration);
 
                 // Return to original emission color
                 windowMaterial.SetColor("_EmissionColor", originalEmissionColor);
+                ToggleFlickeringLights(false); // Turn off all lights
                 yield return new WaitForSeconds(lightningDuration / 2); // You can adjust this delay to fit your needs
 
                 // Second flash (you can add as many additional flashes as you want following this pattern)
                 windowMaterial.SetColor("_EmissionColor", emissionColor * 0.5f); // The second flash is usually less intense, hence the * 0.5
+                ToggleFlickeringLights(true); // Turn on all lights
                 yield return new WaitForSeconds(lightningDuration / 2);
 
                 // Return to original emission color
                 windowMaterial.SetColor("_EmissionColor", originalEmissionColor);
+                ToggleFlickeringLights(false); // Turn off all lights
             }
+        }
+    }
+
+    private void ToggleFlickeringLights(bool enable)
+    {
+        foreach (var flickeringLight in flickeringLights)
+        {
+            flickeringLight.enabled = enable;
         }
     }
 

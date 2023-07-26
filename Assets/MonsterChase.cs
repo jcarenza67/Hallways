@@ -6,6 +6,7 @@ public class MonsterChase : MonoBehaviour
     public GameObject player;
     private NavMeshAgent agent;
     private bool chasing = false;
+
     void Start()
     {
         agent = GetComponent<NavMeshAgent>();

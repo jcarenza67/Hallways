@@ -2,6 +2,8 @@ using UnityEngine;
 
 public class Teleport : MonoBehaviour
 {
+    public AudioSource bathroomAudio;
+    public BathroomDoorScript bathroomDoor;
     public Transform teleportTarget;
     public void TeleportPlayer()
     {
@@ -10,6 +12,7 @@ public class Teleport : MonoBehaviour
             GameObject player = GameObject.FindWithTag("Player");
             if (player != null)
             {
+                player.transform.position = teleportTarget.position;
                 player.transform.position = teleportTarget.position;
             }
             else
