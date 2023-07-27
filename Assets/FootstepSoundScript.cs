@@ -10,6 +10,9 @@ public class FootstepSoundScript : MonoBehaviour
     public float walkingFootstepCooldown = 0.5f;
     public float runningFootstepCooldown = 0.3f;
 
+    public float walkingVolume = 1.0f;
+    public float runningVolume = 1.0f;
+
     private CharacterController characterController;
     private AudioSource walkingAudioSource;
     private AudioSource runningAudioSource;
@@ -20,7 +23,10 @@ public class FootstepSoundScript : MonoBehaviour
     {
         characterController = GetComponent<CharacterController>();
         walkingAudioSource = gameObject.AddComponent<AudioSource>();
+        walkingAudioSource.volume = walkingVolume;
+
         runningAudioSource = gameObject.AddComponent<AudioSource>();
+        runningAudioSource.volume = runningVolume;
     }
 
     void Update()
