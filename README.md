@@ -80,6 +80,8 @@ July 24th
 * 3:00: Added a new animation to the monster. Now I am going to try and get the monster to chase the player.
 July 26th
 * 7:11pm: Made a main menu that looks so bad haha. But it works.
+July 27th
+* 8:00am: added another monster
 
 # License
 
