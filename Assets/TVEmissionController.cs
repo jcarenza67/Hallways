@@ -6,6 +6,7 @@ public class TVEmissionController : MonoBehaviour
 {
     public Material tvMaterial;
     public FlickeringLight2 flickeringLight2;
+    public AudioSource audioSource;
     private MaterialPropertyBlock propertyBlock;
     public Renderer rend;
     private Color baseColor;
@@ -33,10 +34,18 @@ public class TVEmissionController : MonoBehaviour
         if (flickeringLight2.lightSource2.enabled)
         {
             emission = maxEmission;
+            if (!audioSource.isPlaying)
+            {
+                audioSource.Play();
+            }
         }
         else
         {
             emission = minEmission;
+            if (audioSource.isPlaying)
+            {
+                audioSource.Stop();
+            }
         }
         propertyBlock.SetColor("_EmissionColor", baseColor * Mathf.LinearToGammaSpace(emission));
         rend.SetPropertyBlock(propertyBlock);
