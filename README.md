@@ -82,6 +82,7 @@ July 26th
 * 7:11pm: Made a main menu that looks so bad haha. But it works.
 July 27th
 * 8:00am: added another monster
+* 8:30: adding triggers for audio
 
 # License
 
