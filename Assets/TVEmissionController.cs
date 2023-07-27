@@ -5,7 +5,9 @@ using UnityEngine;
 public class TVEmissionController : MonoBehaviour
 {
     public Material tvMaterial;
-    public FlickeringLight flickeringLight;
+    public FlickeringLight2 flickeringLight2;
+    private MaterialPropertyBlock propertyBlock;
+    public Renderer rend;
     private Color baseColor;
     public Color initialEmissionColor = Color.black;
     public float maxEmission = 1.0f;
@@ -15,19 +17,38 @@ public class TVEmissionController : MonoBehaviour
     {
         baseColor = tvMaterial.GetColor("_EmissionColor");
         tvMaterial.SetColor("_EmissionColor", initialEmissionColor);
+        propertyBlock = new MaterialPropertyBlock();
+
+        float emission = minEmission;
+        propertyBlock.SetColor("_EmissionColor", baseColor * Mathf.LinearToGammaSpace(emission));
+        rend.SetPropertyBlock(propertyBlock);
+
+        // Initially, the TV is off
+        flickeringLight2.TurnOffLight();
     }
 
     private void Update()
     {
-        if (flickeringLight.lightSource.enabled)
+        float emission;
+        if (flickeringLight2.lightSource2.enabled)
         {
-            float emission = maxEmission;
-            tvMaterial.SetColor("_EmissionColor", baseColor * Mathf.LinearToGammaSpace(emission));
+            emission = maxEmission;
         }
         else
         {
-            float emission = minEmission;
-            tvMaterial.SetColor("_EmissionColor", baseColor * Mathf.LinearToGammaSpace(emission));
+            emission = minEmission;
         }
+        propertyBlock.SetColor("_EmissionColor", baseColor * Mathf.LinearToGammaSpace(emission));
+        rend.SetPropertyBlock(propertyBlock);
+    }
+
+    public void TurnOnTV()
+    {
+        flickeringLight2.TurnOnLight();
+    }
+
+    public void TurnOffTV()
+    {
+        flickeringLight2.TurnOffLight();
     }
 }

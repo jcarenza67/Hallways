@@ -2,15 +2,23 @@ using UnityEngine;
 
 public class TVTrigger : MonoBehaviour
 {
-    public FlickeringLight tvFlickeringLight;
+    public FlickeringLight2 tvFlickeringLight;
     public TVEmissionController tvEmissionController;
 
     private void OnTriggerEnter(Collider other)
     {
         if (other.CompareTag("Player"))
         {
-            tvFlickeringLight.lightSource.enabled = true;
-            tvEmissionController.enabled = true;
+            tvFlickeringLight.TurnOnLight();
         }
     }
+
+    private void OnTriggerExit(Collider other)
+    {
+        if (other.CompareTag("Player"))
+        {
+            tvFlickeringLight.TurnOffLight();
+        }
+    }
+
 }
