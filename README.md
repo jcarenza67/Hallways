@@ -84,6 +84,7 @@ July 27th
 * 8:00am: added another monster
 * 8:30: adding triggers for audio
 * 9:20: made an audio trigger for the new monster.
+* 12:00: going to be decorating the rest of the day.
 
 # License
 
