@@ -85,6 +85,7 @@ July 27th
 * 8:30: adding triggers for audio
 * 9:20: made an audio trigger for the new monster.
 * 12:00: going to be decorating the rest of the day.
+* 12:56: reimporting assets to see if it fixes missing prefab scripts
 
 # License
 
