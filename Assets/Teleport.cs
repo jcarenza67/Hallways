@@ -13,8 +13,13 @@ public class Teleport : MonoBehaviour
             GameObject player = GameObject.FindWithTag("Player");
             if (player != null)
             {
-                Vector3 offset = player.transform.position - teleportOrigin.position;
-                player.transform.position = teleportTarget.position + offset;
+                Vector3 relativePosition = player.transform.position - teleportOrigin.position;
+                
+                Quaternion rotate180 = Quaternion.Euler(0, 180, 0);
+
+                relativePosition = rotate180 * relativePosition;
+                
+                player.transform.position = teleportTarget.position + relativePosition;
             }
             else
             {
