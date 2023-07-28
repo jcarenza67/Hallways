@@ -90,6 +90,7 @@ July 27th
 * 2:00: added a good amount of props to the scene. Going to add more.
 July 28th
 * 9:42am: adjusting teleportation transition to make it more smooth.
+* 10:21: Adding more props to the scene. like furniture.
 
 # License
 
