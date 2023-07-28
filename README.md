@@ -88,6 +88,8 @@ July 27th
 * 12:56: reimporting assets to see if it fixes missing prefab scripts
 * 1:30: adding more props to the scene
 * 2:00: added a good amount of props to the scene. Going to add more.
+July 28th
+* 9:42am: adjusting teleportation transition to make it more smooth.
 
 # License
 
